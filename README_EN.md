@@ -31,3 +31,5 @@ The three formal documents and script are planning drafts pending member review.
 Task 1 is dated 20 November 2026, Task 2 8 December and Presentation 10 December. The platform's Task 1 00:00 cutoff conflicts with the attachment's 23:59; the internal readiness target is 19 November at 18:00 MYT. Presentation mode, duration and submission format remain unconfirmed; a composite video is not yet approved by the lecturer.
 
 [Original course files](course-source/) remain unchanged. No university submission or message to the lecturer/group has been made. Network-drive synchronization remains pending.
+
+Interface screenshots and per-image descriptions: see [interface-gallery](interface-gallery/README.md). Images are numbered by module and use synthetic sample data; they are not functional acceptance evidence.

@@ -13,3 +13,7 @@ Verify compilation and appropriate language, layout and behaviour checks. Update
 ## Delivery status
 
 The handoff and migration warning were delivered. On a subsequent progress check, the chat reported validation of English navigation for en-US/en-GB and restored Chinese for zh-CN, with further control and accessibility checks in progress. This is a progress report, not final acceptance or evidence incorporated into the assessed documents.
+
+## Screenshot delivery — 13 November 2026
+
+The Android English UI candidate is complete locally. The user subsequently authorized capturing interface screenshots and publishing them to this document repository, superseding the earlier no-course-screenshot restriction above. The latest request explicitly asks for an interface catalogue rather than functional testing or a video. See [the screenshot folder](../interface-gallery/README.md) for numbered images, descriptions and the offline-fixture boundary. No OpenScreen recording was started.
