@@ -2,6 +2,8 @@
 
 UECS6013 Group 2 · **Document Management System** · PerClip Document Management Team.
 
+**组员先读：[上手指南 / Group Guideline](GUIDELINE.md)** — 文档用途、个人 Google Docs、五人分工、阅读顺序与演示准备。
+
 An AI-assisted document management project connecting an English-language Android app with self-hosted capture, archival and retrieval. Optional RAG is a planned extension; the core workflow remains independent of it. This repository holds project planning and presentation documents.
 
 ## Editable documents
