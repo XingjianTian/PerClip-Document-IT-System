@@ -4,7 +4,7 @@ PerClip Document IT System | Document Management System | Group 2 | UECS6013
 
 ## Name, Title and Roles, Contact Details.
 
-Group 2 members: XINGJIAN TIAN (leader and technical planning), CHUN ZE LI (requirements, scope and MOV), LIN ZHIHUA (WBS and schedule), TAN SHIRONG (budget and risks), and ZHANG SHUAI (quality and acceptance). These are proposed responsibilities, not verified skills.
+Group 2 members: XINGJIAN TIAN (leader, stakeholders and project administration), CHUN ZE LI (requirements, scope and MOV), LIN ZHIHUA (WBS and schedule), TAN SHIRONG (budget and risks), and ZHANG SHUAI (quality and acceptance). These are proposed responsibilities, not verified skills.
 
 Each member’s matriculation number: __________; contact: __________. Intended users will capture and retrieve documents through Android. A self-hosted administrator will manage storage and service access. The lecturer is the academic reviewer. Sponsor representative: __________; approval/contact: __________. No stakeholder signature or funding commitment has been obtained.
 
@@ -76,7 +76,7 @@ The MYR 25 hourly rate is an assumed shadow valuation, not an agreed wage or mar
 
 ## Key risks, probability of occurrence, and impact
 
-R1 deadline ambiguity: high probability/high impact; LIN confirms platform cutoff and targets 19 November. R2 unavailable member time: medium/high; LIN reviews workload and reassigns bounded writing tasks. R3 scope growth into coding or AI: medium/high; CHUN enforces the document baseline and defers extras. R4 inaccurate technical claims: medium/high; XINGJIAN checks architecture assumptions and marks uncertainty.
+R1 deadline ambiguity: high probability/high impact; LIN confirms platform cutoff and targets 19 November. R2 unavailable member time: medium/high; LIN reviews workload and reassigns bounded writing tasks. R3 scope growth into coding or AI: medium/high; CHUN enforces the document baseline and defers extras. R4 unsupported claims: medium/high; ZHANG checks evidence and marks uncertainty during quality review.
 
 R5 arithmetic or template omissions: medium/medium; TAN reconciles totals and ZHANG audits sections. R6 private data exposure: low/high; XINGJIAN uses sanitized examples and excludes secrets. R7 rendering or upload failure: medium/high; ZHANG requests final rendering and LIN retains submission buffers. Ratings are qualitative planning judgments, not observed frequencies. Review risks at every phase gate and escalate unresolved high-impact items to the group and academic reviewer.
 
@@ -106,7 +106,7 @@ Resolve the Moodle 20 November 00:00 cutoff versus the attachment’s 23:59 inst
 
 ## Change Management Plan
 
-Log each proposed change with requester, reason, affected requirements, hours, cost, milestone impact and owner. CHUN checks scope/MOV impact, LIN checks schedule, TAN checks budget/risk, ZHANG checks acceptance implications and XINGJIAN integrates approved wording. The group should agree a decision rule before baselining; until then, affected work remains proposed.
+Log each proposed change with requester, reason, affected requirements, hours, cost, milestone impact and owner. CHUN checks scope/MOV impact, LIN checks schedule, TAN checks budget/risk, ZHANG checks acceptance implications and XINGJIAN leads the change log and integrates approved wording. The group should agree a decision rule before baselining; until then, affected work remains proposed.
 
 Changes to assessed deliverables or deadlines require clarification with the academic reviewer. No member may treat optional AI, prototype coding or spending as implicitly approved. Record the decision, date and document version; update linked sections together and retain superseded versions. Urgent deadline issues should be raised promptly rather than silently changing the baseline.
 
@@ -114,7 +114,7 @@ Changes to assessed deliverables or deadlines require clarification with the aca
 
 Proposed phase-gate review points are 18 November, 27 November, 4 December and 9 December. The group will decide whether each review is a meeting or asynchronous review. Meeting dates, times, venue, messaging channel and response window remain unagreed. Members will report completed writing, remaining hours, blockers and decisions needed.
 
-LIN would maintain a dated action and decision log; each action has an owner and due date. XINGJIAN would maintain the integrated English draft. Escalate deadline conflicts and unresolved high-impact risks to the nominated leader and lecturer through an agreed channel. Keep evidence links in shared records and exclude passwords, tokens and private documents.
+LIN would track dated actions and due dates. XINGJIAN would maintain communication records, the decision log and the integrated English draft. Escalate deadline conflicts and unresolved high-impact risks to the nominated leader and lecturer through an agreed channel. Keep evidence links in shared records and exclude passwords, tokens and private documents.
 
 ## Scope Management Plan
 
@@ -130,7 +130,7 @@ The document owner should inspect the completed Google Docs and Word versions an
 
 ## Human Resource Plan
 
-Proposed responsibilities: XINGJIAN integrates English and technical planning; CHUN owns requirements, scope and MOV; LIN owns WBS, schedule and dependency tracking; TAN owns estimates, budget reconciliation and risks; ZHANG owns quality and planned acceptance scenarios. This allocation states responsibilities only; skills and prior experience remain unverified.
+Proposed responsibilities: XINGJIAN coordinates the project, stakeholders, Team Charter, communication, change management and document/presentation integration, including opening and final summary; CHUN owns requirements, goals, scope and MOV; LIN owns WBS, schedule and dependency tracking; TAN owns estimates, resources, budget reconciliation, assumptions and risks; ZHANG owns quality, planned tests, acceptance, approval requirements and closure planning. This allocation states responsibilities only; skills and prior experience remain unverified.
 
 Each member receives 5 hours in P1, 5 in P2, 5 in P3 and 3 in P4, totaling 18 hours. Pair review is included in those hours. Confirm availability and role acceptance before baseline approval. If a member cannot complete an allocation, LIN should record reassignment and its impact; all five members should retain a presentation contribution.
 
@@ -166,7 +166,7 @@ Shadow labour: non-cash valuation of assumed student effort. Contingency: a plan
 
 Appendix A — Planned WBS: P1 (13–19 November), Proposal and Team Charter; P2 (20–27 November), requirements, MOV and planning baseline; P3 (28 November–7 December), Project Charter integration and review; P4 (8–10 December), presentation and closure. Each member receives 5, 5, 5 and 3 hours in these phases, totalling 18; phase totals are 25, 25, 25 and 15 hours.
 
-Within every phase, XINGJIAN TIAN owns technical planning and integration; CHUN ZE LI owns requirements and MOV; LIN ZHIHUA owns WBS and schedule; TAN SHIRONG owns costs and risks; ZHANG SHUAI owns quality and acceptance. Peer review and rehearsal are included in the hours. The companion wbs-and-budget.md records the reconciled member/phase and cost tables; the work-package summary is included below.
+Within every phase, XINGJIAN TIAN owns coordination, stakeholders, team organisation, communication/change management and integration; CHUN ZE LI owns requirements, scope and MOV; LIN ZHIHUA owns WBS and schedule; TAN SHIRONG owns costs, resources, assumptions and risks; ZHANG SHUAI owns quality, acceptance, approval and closure planning. Peer review and rehearsal are included in the hours. The companion wbs-and-budget.md records the reconciled member/phase and cost tables; the work-package summary is included below.
 
 The sequential phase-gate chain is P1 → P2 → P3 → P4, with parallel member work within each phase. Integration precedes quality review and correction; the 7 December freeze precedes rehearsal. This is a high-level dependency plan, not a calculated CPM network. The 19 November and 7 December readiness gates are intended buffers, subject to actual availability.
 
@@ -174,4 +174,4 @@ Appendix B — Proposed acceptance use cases (results pending). UC1: save a fict
 
 For each future check, record input, preconditions, expected and actual outcome, pass/fail, tester and date. Repeat core saving and retrieval with optional AI/RAG unavailable; expect a clear optional-service status without loss of the core workflow. Confirm the test environment and thresholds before execution.
 
-Appendix C — Planned work packages. P1: each functional owner drafts their assigned proposal/team sections; XINGJIAN integrates, ZHANG reviews. P2: CHUN baselines requirements/MOV, XINGJIAN the architecture, LIN WBS/dependencies, TAN estimates/risks, ZHANG acceptance criteria; depends on P1 review. P3: owners complete their charter sections, XINGJIAN integrates and ZHANG coordinates peer review/correction; depends on P2 baseline. P4: each member rehearses and presents their section; ZHANG integrates the presentation and XINGJIAN coordinates closure; depends on the reviewed charter. Each member’s phase allocation is 5/5/5/3 hours, with review included.
+Appendix C — Planned work packages. P1: each functional owner drafts their assigned proposal/team sections; XINGJIAN integrates, ZHANG reviews. P2: CHUN baselines requirements/MOV, XINGJIAN stakeholders/team organisation and management rules, LIN WBS/dependencies, TAN estimates/risks, ZHANG acceptance criteria; depends on P1 review. P3: owners complete their charter sections, XINGJIAN integrates and ZHANG coordinates peer review/correction; depends on P2 baseline. P4: each member rehearses and presents their section; XINGJIAN integrates the presentation, opens and concludes; ZHANG prepares acceptance and closure records; depends on the reviewed charter. Each member’s phase allocation is 5/5/5/3 hours, with review included.

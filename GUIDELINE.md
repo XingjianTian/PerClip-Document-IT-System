@@ -26,11 +26,13 @@ UECS6013 · Group 2 · 更新：2026-11-13
 
 | 发言顺序 | 成员与个人 Google Docs | 负责审阅／补充 | 重点讲解 |
 |---|---|---|---|
-| 1 | [XINGJIAN TIAN](https://docs.google.com/document/d/1BMb5rx9NVIpYG9ox9SPD_6Xkid16asukJab6xNW0ylY) | 技术描述、英文界面规划、利益相关者、整合协调 | 团队介绍、项目描述、利益相关者 |
-| 2 | [CHUN ZE LI](https://docs.google.com/document/d/1skMCN0gPBZ_zDaqFZK26zzbTKhYQar74mNJEMtwxMEk) | 问题、需求、用例、范围、MOV | 做什么、不做什么、如何衡量价值 |
-| 3 | [LIN ZHIHUA](https://docs.google.com/document/d/1dBQA91iUP--95W6CIYFReqEAi-DLq7y4fhMoQfajyho) | WBS、依赖、里程碑、期限和行动跟踪 | 工作如何分解、如何排期 |
-| 4 | [TAN SHIRONG](https://docs.google.com/document/d/1K5jbDaTshiMV7OCqicKhI0olJpm3bu4k4OeB997Xha4) | 预算、资源、风险与变更影响 | 估算依据、风险及应对 |
-| 5 | [ZHANG SHUAI](https://docs.google.com/document/d/1gnnE3TZZlzDO6NaZN62O1F4rNpcOcdfmtof7yZgMzAY) | 质量要求、拟定验收、管理与收尾、演示整合 | 如何验收、如何管理、总结 |
+| 1 | [XINGJIAN TIAN](https://docs.google.com/document/d/1BMb5rx9NVIpYG9ox9SPD_6Xkid16asukJab6xNW0ylY) | 项目协调、利益相关者、团队章程、沟通与变更管理、文档与演示整合 | 开场、团队与项目介绍、利益相关者、最终总结 |
+| 2 | [CHUN ZE LI](https://docs.google.com/document/d/1skMCN0gPBZ_zDaqFZK26zzbTKhYQar74mNJEMtwxMEk) | 问题、需求、目标、MOV、范围 | 做什么、不做什么、如何衡量价值 |
+| 3 | [LIN ZHIHUA](https://docs.google.com/document/d/1dBQA91iUP--95W6CIYFReqEAi-DLq7y4fhMoQfajyho) | WBS、依赖、排期与里程碑 | 工作如何分解、如何排期 |
+| 4 | [TAN SHIRONG](https://docs.google.com/document/d/1K5jbDaTshiMV7OCqicKhI0olJpm3bu4k4OeB997Xha4) | 预算、资源、假设与风险 | 估算依据、风险及应对 |
+| 5 | [ZHANG SHUAI](https://docs.google.com/document/d/1gnnE3TZZlzDO6NaZN62O1F4rNpcOcdfmtof7yZgMzAY) | 质量、测试规划、验收、批准与收尾计划 | 质量与测试证据、验收批准、收尾计划 |
+
+发言顺序：XINGJIAN 开场 → CHUN → LIN → TAN → ZHANG → XINGJIAN 总结。ZHANG 讲完收尾计划后交回 XINGJIAN，由组长作最终口头总结。
 
 文档保存在学校账号下。链接不等于已授予访问权限；若无法打开，请把用于访问的账号提供给组长，由组长安排权限。不要为了方便访问而擅自公开文档。无需通过邮件或聊天发送密码。
 

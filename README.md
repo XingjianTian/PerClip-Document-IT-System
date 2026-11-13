@@ -17,6 +17,8 @@ An AI-assisted document management project connecting an English-language Androi
 
 ## Five-person presentation
 
+XINGJIAN leads coordination, stakeholders, team administration and integration, and gives both the opening and final summary. CHUN owns requirements/scope/MOV; LIN owns WBS/schedule; TAN owns budget/resources/risks; ZHANG owns quality/acceptance/closure planning. After ZHANG, the presentation returns to XINGJIAN.
+
 - [Task 1 speaking script](presentation/01_Task1_Five_Speaker_Script_EN.md)
 - [Task 2 speaking script](presentation/02_Task2_Final_Five_Speaker_Script_EN.md)
 - [Recording and Q&A guide](presentation/03_Recording_and_QA_Guide_ZH.md)

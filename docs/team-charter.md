@@ -38,11 +38,11 @@ The team will identify gaps, review the proposed document-management workflow an
 
 ## ROLES AND RESPONSIBILITIES
 
-XINGJIAN TIAN: coordinate the group, define the technical architecture and English application workflow, and integrate the submission package. CHUN ZE LI: define the problem, stakeholders, requirements, scope and MOV. LIN ZHIHUA: develop the WBS, dependencies, milestone dates and action tracking.
+XINGJIAN TIAN: coordinate the project, maintain stakeholder roles and the Team Charter, lead communication and change management, and integrate documents and presentation materials. CHUN ZE LI: define the problem, requirements, goals, scope and MOV. LIN ZHIHUA: develop the WBS, dependencies, milestone dates and action tracking.
 
-TAN SHIRONG: maintain resource assumptions, the estimated budget, risk register and change log. ZHANG SHUAI: maintain test scenarios, traceability, defect/acceptance records and the shared presentation package. Everyone writes and reviews their own contribution, checks another section, rehearses and answers questions.
+TAN SHIRONG: maintain resource assumptions, the estimated budget and risk register. ZHANG SHUAI: maintain quality requirements, planned tests, acceptance criteria, approval requirements and the closure plan. Everyone writes and reviews their own contribution, checks another section, rehearses and answers questions. XINGJIAN opens the presentation and returns after ZHANG to give the final summary.
 
-Planning allowance: 18 hours per member, totalling 90 person-hours. This allocation is an estimate, not a time-worked record. Peer review rotation: XINGJIAN reviews quality; CHUN reviews technical scope; LIN reviews requirements; TAN reviews schedule; ZHANG reviews budget and risk.
+Planning allowance: 18 hours per member, totalling 90 person-hours. This allocation is an estimate, not a time-worked record. Peer review rotation: XINGJIAN reviews quality; CHUN reviews stakeholder-to-requirement alignment; LIN reviews requirements; TAN reviews schedule; ZHANG reviews budget and risk.
 
 ## AGREED UPON MEETING TIMES
 
@@ -112,4 +112,4 @@ Universiti Teknologi Malaysia. (n.d.). Proposal template 1; Team charter templat
 
 Before adoption: complete personal details and skills; agree task ownership, meeting arrangements and communication; obtain real signatures; clarify the deadline and presentation mode; check the Task 1 rubric.
 
-Presentation: XINGJIAN—system and workflow; CHUN—requirements and value; LIN—schedule and meetings; TAN—budget, risks and communication; ZHANG—quality and team rules. Everyone presents and prepares for questions. Script lengths are rehearsal suggestions.
+Presentation: XINGJIAN—opening, stakeholders, team organisation, communication/change management and final summary; CHUN—requirements, scope and value; LIN—WBS and schedule; TAN—budget, resources, assumptions and risks; ZHANG—quality, acceptance, approval and closure planning. Speaking order: XINGJIAN → CHUN → LIN → TAN → ZHANG → XINGJIAN. Everyone presents and prepares for questions. Script lengths are rehearsal suggestions.

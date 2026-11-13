@@ -4,7 +4,7 @@ UTM UECS6013 · Group 2 · PerClip Document IT System · Category: Document Mana
 
 Task 2: 8 December 2026, 30%. Group presentation: 10 December 2026, 5%. Suggested delivery: about 8–10 minutes, excluding questions; not a prescribed duration. This script presents a proposed charter, not an implementation report. Align every figure and commitment with the final charter before recording. Do not change “proposed” into “approved” without evidence.
 
-Coverage: XINGJIAN — stakeholders, description; CHUN — MOV, scope; LIN — schedule; TAN — budget, resources, assumptions and risks; ZHANG — quality, administration. Acceptance and approval, additionally required by Template 3, appear in the closing section.
+Coverage: XINGJIAN — opening, stakeholders, description, project administration and final summary; CHUN — requirements, MOV and scope; LIN — WBS and schedule; TAN — budget, resources, assumptions and risks; ZHANG — quality, acceptance, approval and closure planning. Speaking order: XINGJIAN → CHUN → LIN → TAN → ZHANG → XINGJIAN.
 
 ## Speaker 1 — XINGJIAN TIAN · Stakeholders and project description
 
@@ -14,7 +14,7 @@ The opportunity is to connect mobile document capture, archiving, and retrieval 
 
 Our proposed stakeholders include intended document users, our five team members, and the lecturer as the course assessor. Any sponsor or acceptance authority in the charter is a planning assumption until an actual person and responsibility are confirmed. The assignment’s hypothetical sponsorship does not establish real funding or approval.
 
-My proposed role covers integration planning and English interface consistency. We would use stakeholder feedback to refine requirements and resolve conflicting priorities. Contact and personal skill fields remain blank. Chun will now explain how we propose to measure value and control scope.
+As leader, I coordinate stakeholders, the team charter, communication, change management, and document integration. Our proposed administration uses named owners, a shared baseline, a decision log, and review actions. A change needs an impact assessment and a recorded decision. Contact, skill, and meeting fields remain blank. Chun will now explain requirements, value, and scope.
 
 ## Speaker 2 — CHUN ZE LI · MOV and scope
 
@@ -48,16 +48,20 @@ Required resources would include five members, suitable computers and a mobile d
 
 Deadline ambiguity has proposed high probability and high impact. Lin will confirm the cutoff, targeting nineteen November. Optional RAG scope has medium probability and high impact. Chun will define its boundary and defer additions that threaten the core plan.
 
-Our estimates assume access to the necessary materials and timely team reviews. Unresolved access and availability questions should remain visible in the charter. Zhang will finish with quality, administration, and acceptance.
+Our estimates assume access to the necessary materials and timely team reviews. Unresolved access and availability questions should remain visible in the charter. Zhang will explain quality, acceptance, approval, and closure planning, before Xingjian returns for the summary.
 
-## Speaker 5 — ZHANG SHUAI · Quality, administration and acceptance
+## Speaker 5 — ZHANG SHUAI · Quality, acceptance, approval and closure planning
 
 Thank you, Tan. I am Zhang Shuai. My proposed responsibility covers quality planning, testing, and acceptance.
 
 Quality requirements would include a consistent English interface, correct document retrieval, clear error handling, and protection against unauthorised access. Proposed tests would trace each requirement to a scenario and expected result. These are proposed acceptance tests, without verified results.
 
-For project administration, we propose a shared document baseline, named task owners, a decision log, and recorded review actions. Meeting time fields remain blank. Our proposed communication plan will identify an agreed channel. Human resource planning will balance workloads and identify backup support. Deliverables will use school-account Google Docs with Word and Markdown copies. Scope and change management would require an impact assessment and a recorded decision before revising commitments.
+For document acceptance, I will check template coverage, consistent figures, readable formatting, and traceability from requirements to planned acceptance criteria. Each author checks their section and a teammate reviews it. Outstanding issues and required corrections will be recorded before approval is requested.
 
 Implementation and closure planning would define handover materials, outstanding issues, and evidence needed for acceptance. A designated authority would review the agreed criteria before signing and dating approval. The lecturer’s assessment role does not automatically establish operational acceptance or funding approval.
 
-PerClip Document IT System is a proposal with explicit boundaries and unresolved assumptions. All five members are ready to discuss their planning areas. Thank you.
+My responsibility is to prepare the quality and closure evidence, rather than to grant approval. I will now hand back to Xingjian for the final summary.
+
+## Speaker 1 returns — XINGJIAN TIAN · Final summary
+
+Thank you, Zhang. Our charter connects the value target and scope to a schedule, estimated budget, risks, and acceptance plan. I will coordinate the team, integrate the documents and presentation, and keep communication and change decisions visible. We will balance workloads and record review actions, while the responsible owners maintain their sections. The planning estimate is ninety person-hours and MYR 2,585; it is not evidence of implementation or spending. Remaining arrangements and approvals need confirmation. All five members are prepared to discuss their planning areas. Thank you.

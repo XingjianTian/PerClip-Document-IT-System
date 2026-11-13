@@ -4,11 +4,11 @@ All hours and costs are planning assumptions. Personal skills and availability r
 
 | Member | Proposed responsibility | P1 | P2 | P3 | P4 | Total hours |
 |---|---|---:|---:|---:|---:|---:|
-| XINGJIAN TIAN | Technical architecture and document integration | 5 | 5 | 5 | 3 | 18 |
+| XINGJIAN TIAN | Coordination, stakeholders, team/communication/change management and integration | 5 | 5 | 5 | 3 | 18 |
 | CHUN ZE LI | Requirements, scope and MOV | 5 | 5 | 5 | 3 | 18 |
 | LIN ZHIHUA | WBS, schedule and dependencies | 5 | 5 | 5 | 3 | 18 |
-| TAN SHIRONG | Budget, resources and risks | 5 | 5 | 5 | 3 | 18 |
-| ZHANG SHUAI | Quality, acceptance and presentation integration | 5 | 5 | 5 | 3 | 18 |
+| TAN SHIRONG | Budget, resources, assumptions and risks | 5 | 5 | 5 | 3 | 18 |
+| ZHANG SHUAI | Quality, tests, acceptance, approval and closure planning | 5 | 5 | 5 | 3 | 18 |
 | Total | | 25 | 25 | 25 | 15 | 90 |
 
 | Phase | Dates in 2026 | Labour MYR | Service allowance MYR | Contingency MYR | Total MYR |

@@ -18,6 +18,8 @@ Each two-page document includes the member's proposed responsibilities and both 
 
 ## Fidelity and version notes
 
+All eight documents were revised in place for the updated responsibilities: XINGJIAN coordinates stakeholders, the team charter, communication, changes and integration, and gives the opening and final summary. CHUN owns requirements/scope/MOV; LIN owns WBS/schedule; TAN owns budget/resources/risks; ZHANG owns quality/acceptance/closure planning and hands back to XINGJIAN. Original links and titles are retained.
+
 The native Google Docs and repository Word/Markdown versions contain the same assessed body content. Google conversion retains the UTM logo and content hierarchy; font rendering, cover border and TOC numbering appearance can differ from Word. Two missing body-section breaks were repaired. Exported page counts are 4, 6 and 12; all TOC target-page values were checked against the rendered documents.
 
 These are review drafts. Fill the personal and meeting fields and obtain actual approvals before university submission. GitHub changes do not automatically synchronize back to Google Docs; update both explicitly after subsequent substantive edits.
