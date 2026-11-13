@@ -2,7 +2,7 @@
 
 UECS6013 · Group 2 · 更新：2026-11-13
 
-请先读本页，再打开自己姓名开头的 Google Docs。无需安装开发环境或运行系统，就能参与当前文档审阅和演示准备。GitHub 用于阅读与保存版本，Google Docs 用于协作修改。
+请先读本页，再打开统一讲稿 Google Docs，按自己的姓名找到章节。无需安装开发环境或运行系统，就能参与当前文档审阅和演示准备。GitHub 用于阅读与保存版本，Google Docs 用于协作修改。
 
 ## 1. 我们的项目是什么
 
@@ -18,19 +18,19 @@ UECS6013 · Group 2 · 更新：2026-11-13
 | [Team Charter-PerClip Document IT System](https://docs.google.com/document/d/1QEtU5J5U73wCyGCwEX2-MJFN66VqZpyIB1YgSM_wJv0) | 说明成员、职责、技能、会议、沟通与团队规则 | Task 1 |
 | [Project Charter-PerClip Document IT System](https://docs.google.com/document/d/1zFv3wvtZOBagOc8DQkFxFpXOKsy2kZrWi4drkiAovYg) | 说明 MOV、范围、排期、预算、质量、资源、风险、管理与验收批准 | Task 2，30% |
 
-三份各有用途，都需要保留。个人讲稿是准备材料，不能替代正式作业文档。
+三份各有用途，都需要保留。统一讲稿是准备材料，不能替代正式作业文档。
 
 ## 3. 找到自己的分工与讲稿
 
-以下为建议分工，需全组确认；不是对个人技能的认定。每份个人文档包含职责、Task 1 讲稿、Task 2／最终展示讲稿及准备提醒。两套稿子用于相应内容的排练，不表示老师已安排两场独立展示。
+以下为建议分工，需全组确认，不代表已核实的个人技能。五人的职责与讲稿合并在[同一份 Google Docs](https://docs.google.com/document/d/1BMb5rx9NVIpYG9ox9SPD_6Xkid16asukJab6xNW0ylY)，按姓名分为五章，方便全组一起整改。每章区分 A（Proposal／Team Charter）和 B（Project Charter），以 B 为主按需选讲，避免重复介绍与交接。组长的总结放在本人章节，但要等 ZHANG 讲完再读；总结只选一版。
 
-| 发言顺序 | 成员与个人 Google Docs | 负责审阅／补充 | 重点讲解 |
+| 发言顺序 | 成员（统一讲稿按姓名分章） | 负责审阅／补充 | 重点讲解 |
 |---|---|---|---|
-| 1 | [XINGJIAN TIAN](https://docs.google.com/document/d/1BMb5rx9NVIpYG9ox9SPD_6Xkid16asukJab6xNW0ylY) | 项目协调、利益相关者、团队章程、沟通与变更管理、文档与演示整合 | 开场、团队与项目介绍、利益相关者、最终总结 |
-| 2 | [CHUN ZE LI](https://docs.google.com/document/d/1skMCN0gPBZ_zDaqFZK26zzbTKhYQar74mNJEMtwxMEk) | 问题、需求、目标、MOV、范围 | 做什么、不做什么、如何衡量价值 |
-| 3 | [LIN ZHIHUA](https://docs.google.com/document/d/1dBQA91iUP--95W6CIYFReqEAi-DLq7y4fhMoQfajyho) | WBS、依赖、排期与里程碑 | 工作如何分解、如何排期 |
-| 4 | [TAN SHIRONG](https://docs.google.com/document/d/1K5jbDaTshiMV7OCqicKhI0olJpm3bu4k4OeB997Xha4) | 预算、资源、假设与风险 | 估算依据、风险及应对 |
-| 5 | [ZHANG SHUAI](https://docs.google.com/document/d/1gnnE3TZZlzDO6NaZN62O1F4rNpcOcdfmtof7yZgMzAY) | 质量、测试规划、验收、批准与收尾计划 | 质量与测试证据、验收批准、收尾计划 |
+| 1 | XINGJIAN TIAN | 项目协调、利益相关者、团队章程、沟通与变更管理、文档与演示整合 | 开场、团队与项目介绍、利益相关者、最终总结 |
+| 2 | CHUN ZE LI | 问题、需求、目标、MOV、范围 | 做什么、不做什么、如何衡量价值 |
+| 3 | LIN ZHIHUA | WBS、依赖、排期与里程碑 | 工作如何分解、如何排期 |
+| 4 | TAN SHIRONG | 预算、资源、假设与风险 | 估算依据、风险及应对 |
+| 5 | ZHANG SHUAI | 质量、测试规划、验收、批准与收尾计划 | 质量与测试证据、验收批准、收尾计划 |
 
 发言顺序：XINGJIAN 开场 → CHUN → LIN → TAN → ZHANG → XINGJIAN 总结。ZHANG 讲完收尾计划后交回 XINGJIAN，由组长作最终口头总结。
 
@@ -38,10 +38,10 @@ UECS6013 · Group 2 · 更新：2026-11-13
 
 ## 4. 每个人现在要做什么
 
-1. 阅读自己的个人文档，再通读三份正式文档，了解项目整体逻辑。
+1. 在统一讲稿中阅读自己的姓名章节，再通读三份正式文档，了解项目整体逻辑。
 2. 核对本人姓名；学号、联系方式、真实技能、可开会时间目前留空，由本人提供或填写。会议地点、平台、团队承诺也需实际确认。
 3. 检查自己负责的内容：是否说得清、数字是否一致、范围是否可行。需要调整时在正式 Google Docs 中提出具体评论，写清修改理由和影响。
-4. 修改内容后，同步检查自己的讲稿；涉及预算、MOV、范围或日期时通知其他相关负责人一起核对。Google Docs 与 GitHub 不会自动同步，组长整合确认后更新仓库版本。
+4. 修改内容后，同步检查统一讲稿中自己的段落；涉及预算、MOV、范围或日期时通知其他相关负责人一起核对。Google Docs 与 GitHub 不会自动同步，组长整合确认后更新仓库版本。
 5. 用自己的话复述负责内容，再用英文稿排练；准备解释“为什么这样定”，不能只会念稿。每人至少准备两个自己部分可能被问到的问题，并阅读[问答草稿](presentation/04_Typical_QA_EN.md)。
 6. 全组按顺序完整排练，检查交接语、名称、数字和重复内容；实际贡献和评审完成后再确认最终版本。
 
@@ -55,7 +55,7 @@ UECS6013 · Group 2 · 更新：2026-11-13
 
 作业原文要求每组只提交一次，并列出文档与 Presentation；每位成员须参与，评分表考查答问能力。所列交付物没有明确要求提交源码或 APK，也不能据此把任务理解成“只念稿即可”。
 
-**原文没有明确说必须现场，也没有写录播视频可以替代展示。** 五人分别录屏口播、最后剪成一个视频，是候选方案，必须在老师确认接受录播后再按确认规则制作。现在先按每人能讲解、能答问来准备。建议排练时长为 Task 1 全组 6–8 分钟、Task 2 全组 8–10 分钟；这不是老师规定。
+**原文没有明确说必须现场，也没有写录播视频可以替代展示。** 五人分别录屏口播、最后剪成一个视频，是候选方案，必须在老师确认接受录播后再按确认规则制作。现在先按每人能讲解、能答问来准备。选定内容后，全组建议排练 8–10 分钟，不含问答；这不是老师规定。
 
 Google Docs、Word 和 Markdown 是本组协作安排，不能当作老师已指定的最终提交格式。最终文件格式、命名、提交入口和是否接受视频均需核对最新课程要求。仅在 Google Docs 写好，不代表已向课程提交。
 
@@ -70,8 +70,7 @@ Google Docs、Word 和 Markdown 是本组协作安排，不能当作老师已指
 
 - [作业要求与评分覆盖、Appendix A、原文定位](docs/作业要求与准备清单.md)
 - [原始要求文件](course-source/Project%20Requirements%20edited.docx)与 [原始模板目录](course-source/)
-- [Task 1 五人完整英文稿](presentation/01_Task1_Five_Speaker_Script_EN.md)
-- [Task 2 五人完整英文稿](presentation/02_Task2_Final_Five_Speaker_Script_EN.md)
+- [Final presentation script / 唯一完整讲稿](presentation/01_Final_Presentation_Script_EN.md)
 - [录制候选方案与答问准备](presentation/03_Recording_and_QA_Guide_ZH.md)
 - [WBS 与预算明细](docs/wbs-and-budget.md)
 
