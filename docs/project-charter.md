@@ -1,6 +1,6 @@
 # Project Charter
 
-PerClip Document IT System | Document Management System | Group 2 | UECS6013
+PerClip RAG Document Management System | Document Management System | Group 2 | UECS6013
 
 ## Name, Title and Roles, Contact Details.
 
@@ -10,15 +10,15 @@ Each member’s matriculation number: __________; contact: __________. Intended 
 
 ## Background
 
-PerClip Document IT System is a proposed AI-assisted document management project for Android and self-hosted storage. Our course planning period starts on 13 November 2026. The system will bring mobile document capture, archiving, organisation and retrieval into one English-language workflow.
+PerClip RAG Document Management System is a proposed RAG document management system for Android and self-hosted storage. Our course planning period starts on 13 November 2026. The system will bring mobile document capture, archiving, organisation and retrieval into one English-language workflow.
 
-The course outputs are a Proposal, Team Charter, Project Charter and presentation. Selected prototype screens are planned as illustrations. The intended architecture will separate durable document storage from optional AI processing and RAG indexing. Core saving, title search and detail access should remain usable when optional services are unavailable. No operational result or measured benefit is claimed at this planning stage.
+The course outputs are a Proposal, Team Charter, Project Charter and presentation. Selected prototype screens are planned as illustrations. The intended architecture will separate durable document storage from RAG indexing and answer generation. Core saving, title search and detail access should remain usable when optional services are unavailable. No operational result or measured benefit is claimed at this planning stage.
 
 ## Description of Challenges and Opportunities
 
 Fragmented document capture and retrieval can make useful information difficult to find. A file may be stored without a clear title or source, while an interrupted upload may leave the user unsure whether it was saved. These are initial problem hypotheses to validate through representative scenarios.
 
-PerClip Document IT System will organise capture, archival, status and retrieval into one English-language Android workflow. AI-assisted enrichment and optional RAG offer a route to knowledge reuse. The project will keep storage and basic retrieval independent of optional integrations and will define observable acceptance criteria before evaluating results.
+PerClip RAG Document Management System will organise capture, archival, status and retrieval into one English-language Android workflow. RAG retrieval and source-linked answer generation offer a route to knowledge reuse. The project will keep storage and basic retrieval independent of optional integrations and will define observable acceptance criteria before evaluating results.
 
 ## MEASURABLE ORGANIZATIONAL VALUE (MOV)
 
@@ -30,13 +30,13 @@ CHUN ZE LI will own the value definition and ZHANG SHUAI the planned measurement
 
 The course baseline covers the English Proposal and Team Charter, the Project Charter, stakeholder needs, proposed MOV, scope, WBS, schedule, budget, risks, quality plan and a five-member presentation. All five members will prepare a contribution and be ready to answer questions.
 
-The system design will cover Android capture, self-hosted API acceptance, background archival, document status, title-based retrieval and document details. Selected prototype screens may illustrate these workflows. The 90-hour estimate covers course planning and presentation; production software development is not included in that estimate.
+The system design will cover Android capture, self-hosted API acceptance, background archival, document status, title-based retrieval, document details, and RAG questions with source-linked answers. Selected prototype screens may illustrate these workflows. The 90-hour estimate covers course planning and presentation; production software development is not included in that estimate.
 
 ## What will be considered outside scope of the proposed project?
 
 The course baseline excludes production deployment, real-data migration, enterprise multi-tenancy, iOS, new infrastructure procurement, regulatory certification and guaranteed OCR, ASR or semantic-answer quality. Prototype screens will illustrate intended interactions; they will not establish production readiness.
 
-Optional AI summarisation and RAG are extension points in the proposed architecture. They must not block capture, archival, title search or detail access. Full implementation, pilot execution, recurring operations and any real service purchase require separate estimates and approval.
+RAG retrieval and source-linked answers are planned system capabilities; additional AI summarisation is an optional extension. RAG service failures must not block capture, archival, title search or detail access. Full implementation, pilot execution, recurring operations and any real service purchase require separate estimates and approval.
 
 ## Start Date, End Date, Timeline of Project Phases and Milestones, Project Reviews and Review Dates
 
@@ -60,7 +60,7 @@ Phase totals reconcile to 90 hours, MYR 2,250 labour, MYR 100 optional allowance
 
 All school-template topics must be addressed in clear English. Project naming, roles, dates, scope, effort and costs must agree across documents. Planned functions and value targets must be described as planned until supported by test evidence. Matriculation numbers, contact details, skills and signatures will remain blank until confirmed.
 
-ZHANG SHUAI will check section coverage, readable formatting, arithmetic, risk ownership and observable acceptance criteria. Every member will review another member’s section. For a later prototype, check the five fictional acceptance scenarios, English labels, readable layouts and core operation without optional AI/RAG. Review records will separate document checks from software test results.
+ZHANG SHUAI will check section coverage, readable formatting, arithmetic, risk ownership and observable acceptance criteria. Every member will review another member’s section. For a later prototype, check the five fictional acceptance scenarios, English labels, readable layouts and core operation with RAG unavailable, source references on RAG answers, and clear handling of insufficient evidence. Review records will separate document checks from software test results.
 
 ## People, Technology, Facilities, Others
 
@@ -90,7 +90,7 @@ The proposed system uses an English Android workflow with self-hosted storage; i
 
 The plan depends on school attachments and clarification of the actual submission platform, deadline time and approving lecturer. Group members must confirm availability, responsibilities and meeting arrangements. The project team must define the technical workflow and secure permission before accessing private infrastructure or real samples.
 
-The charter depends on agreed requirements, MOV, WBS and estimates. The presentation depends on the reviewed charter. Prototype illustration depends on the selected screens, suitable devices and an agreed demonstration dataset. Optional AI providers and RAG services do not determine whether the planning documents or the core document workflow can be completed.
+The charter depends on agreed requirements, MOV, WBS and estimates. The presentation depends on the reviewed charter. Prototype illustration depends on the selected screens, suitable devices and an agreed demonstration dataset. AI providers and RAG services do not determine whether the planning documents or the core document workflow can be completed.
 
 ## Assessment project’s impact on the organization
 
@@ -108,7 +108,7 @@ Resolve the Moodle 20 November 00:00 cutoff versus the attachment’s 23:59 inst
 
 Log each proposed change with requester, reason, affected requirements, hours, cost, milestone impact and owner. CHUN checks scope/MOV impact, LIN checks schedule, TAN checks budget/risk, ZHANG checks acceptance implications and XINGJIAN leads the change log and integrates approved wording. The group should agree a decision rule before baselining; until then, affected work remains proposed.
 
-Changes to assessed deliverables or deadlines require clarification with the academic reviewer. No member may treat optional AI, prototype coding or spending as implicitly approved. Record the decision, date and document version; update linked sections together and retain superseded versions. Urgent deadline issues should be raised promptly rather than silently changing the baseline.
+Changes to assessed deliverables or deadlines require clarification with the academic reviewer. No member may treat additional AI features, prototype coding or spending as implicitly approved. Record the decision, date and document version; update linked sections together and retain superseded versions. Urgent deadline issues should be raised promptly rather than silently changing the baseline.
 
 ## Communication Plan
 
@@ -158,7 +158,7 @@ Universiti Teknologi Malaysia. (n.d.). Proposal template 1; Team charter templat
 
 ## TERMINOLOGY/GLOSSARY
 
-MOV: measurable organizational value, expressed here as proposed future evaluation targets. WBS: work breakdown structure linking deliverables, owners and effort. API: application programming interface receiving capture requests. Worker: a background process handling queued archival work. RAG: retrieval-augmented generation, an optional AI extension. Core workflow: capture, archive, title search and detail access.
+MOV: measurable organizational value, expressed here as proposed future evaluation targets. WBS: work breakdown structure linking deliverables, owners and effort. API: application programming interface receiving capture requests. Worker: a background process handling queued archival work. RAG: retrieval-augmented generation, a planned document-grounded retrieval and answer-generation capability. Core workflow: capture, archive, title search and detail access.
 
 Shadow labour: non-cash valuation of assumed student effort. Contingency: a planning reserve, not automatic spending authority. Baseline: the group-approved scope, schedule and estimates. Critical chain/path: the longest assumed dependency sequence controlling finish. Proposed: planned but not verified as delivered. Gate: a review decision before dependent work proceeds. MYR: Malaysian ringgit; all dates use Malaysia time, UTC+8.
 
@@ -172,6 +172,6 @@ The sequential phase-gate chain is P1 → P2 → P3 → P4, with parallel member
 
 Appendix B — Proposed acceptance use cases (results pending). UC1: save a fictional text note; expect an identifiable receipt and a readable saved record. UC2: share a fictional link; expect the URL and title to be retained. UC3: attach a small fictional file; expect the archived original to be retrievable. UC4: search by a known title keyword; expect the target record in the results. UC5: open its detail view; expect readable content, source and processing status.
 
-For each future check, record input, preconditions, expected and actual outcome, pass/fail, tester and date. Repeat core saving and retrieval with optional AI/RAG unavailable; expect a clear optional-service status without loss of the core workflow. Confirm the test environment and thresholds before execution.
+For each future check, record input, preconditions, expected and actual outcome, pass/fail, tester and date. Repeat core saving and retrieval with RAG unavailable; expect a clear optional-service status without loss of the core workflow. Confirm the test environment and thresholds before execution.
 
 Appendix C — Planned work packages. P1: each functional owner drafts their assigned proposal/team sections; XINGJIAN integrates, ZHANG reviews. P2: CHUN baselines requirements/MOV, XINGJIAN stakeholders/team organisation and management rules, LIN WBS/dependencies, TAN estimates/risks, ZHANG acceptance criteria; depends on P1 review. P3: owners complete their charter sections, XINGJIAN integrates and ZHANG coordinates peer review/correction; depends on P2 baseline. P4: each member rehearses and presents their section; XINGJIAN integrates the presentation, opens and concludes; ZHANG prepares acceptance and closure records; depends on the reviewed charter. Each member’s phase allocation is 5/5/5/3 hours, with review included.

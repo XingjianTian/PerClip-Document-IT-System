@@ -1,4 +1,4 @@
-# 组员上手指南 · PerClip Document IT System
+# 组员上手指南 · PerClip RAG Document Management System
 
 UECS6013 · Group 2 · 更新：2026-11-13
 
@@ -6,7 +6,7 @@ UECS6013 · Group 2 · 更新：2026-11-13
 
 ## 1. 我们的项目是什么
 
-**PerClip Document IT System** 属于作业 Appendix A 的 **Document Management System** 类别。项目计划通过英文 Android 界面，把文档采集、元数据整理、归档与检索连接起来；AI/RAG 是可选扩展，不影响核心流程的定义。
+**PerClip RAG Document Management System** 属于作业 Appendix A 的 **Document Management System** 类别。项目计划通过英文 Android 界面，把文档采集、元数据整理、归档与检索连接起来；AI/RAG 是可选扩展，不影响核心流程的定义。
 
 目前材料是项目规划草稿：目标、功能、工时、预算和验收条件都是计划，不代表开发完成、测试通过或产生了实际效果。每人需要参与自己负责内容的审阅、补充与讲解。
 
@@ -14,9 +14,9 @@ UECS6013 · Group 2 · 更新：2026-11-13
 
 | 文档 | 用途 | 对应任务 |
 |---|---|---|
-| [Proposal-PerClip Document IT System](https://docs.google.com/document/d/1_qTX6LeHCuEHsDNjiBR0V_AFXNi4oFOH3kq5Kty4Glc) | 说明问题、项目目的、利益相关者与范围 | Task 1，连同 Team Charter 共 15% |
-| [Team Charter-PerClip Document IT System](https://docs.google.com/document/d/1QEtU5J5U73wCyGCwEX2-MJFN66VqZpyIB1YgSM_wJv0) | 说明成员、职责、技能、会议、沟通与团队规则 | Task 1 |
-| [Project Charter-PerClip Document IT System](https://docs.google.com/document/d/1zFv3wvtZOBagOc8DQkFxFpXOKsy2kZrWi4drkiAovYg) | 说明 MOV、范围、排期、预算、质量、资源、风险、管理与验收批准 | Task 2，30% |
+| [Proposal-PerClip RAG Document Management System](https://docs.google.com/document/d/1_qTX6LeHCuEHsDNjiBR0V_AFXNi4oFOH3kq5Kty4Glc) | 说明问题、项目目的、利益相关者与范围 | Task 1，连同 Team Charter 共 15% |
+| [Team Charter-PerClip RAG Document Management System](https://docs.google.com/document/d/1QEtU5J5U73wCyGCwEX2-MJFN66VqZpyIB1YgSM_wJv0) | 说明成员、职责、技能、会议、沟通与团队规则 | Task 1 |
+| [Project Charter-PerClip RAG Document Management System](https://docs.google.com/document/d/1zFv3wvtZOBagOc8DQkFxFpXOKsy2kZrWi4drkiAovYg) | 说明 MOV、范围、排期、预算、质量、资源、风险、管理与验收批准 | Task 2，30% |
 
 三份各有用途，都需要保留。统一讲稿是准备材料，不能替代正式作业文档。
 

@@ -1,4 +1,4 @@
-# PerClip Document IT System
+# PerClip RAG Document Management System
 
 UECS6013 Group 2 · **Document Management System** · PerClip Document Management Team.
 

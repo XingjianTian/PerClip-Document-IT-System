@@ -1,10 +1,10 @@
 # 中文录制与问答准备指南
 
-适用：UTM UECS6013 Group 2，PerClip Document IT System · Category: Document Management System。
+适用：UTM UECS6013 Group 2，PerClip RAG Document Management System · Category: Document Management System。
 
 ## 1. 先确认口径
 
-项目名称统一为 PerClip Document IT System，类别为 Document Management System，团队名为 PerClip Document Management Team。按新项目提案呈现：移动采集、归档、检索是 proposed 核心流程，AI/RAG 是可选扩展。功能和效果用 proposed / will 表达；实际开发和验证状态未核实，不宣称已经完成或取得效果。
+项目名称统一为 PerClip RAG Document Management System，类别为 Document Management System，团队名为 PerClip Document Management Team。按新项目提案呈现：移动采集、归档、检索是 proposed 核心流程，AI/RAG 是可选扩展。功能和效果用 proposed / will 表达；实际开发和验证状态未核实，不宣称已经完成或取得效果。
 
 统一英文讲稿的角色是建议分工，不等于已经确认的个人能力：
 

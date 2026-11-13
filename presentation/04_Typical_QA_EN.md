@@ -1,12 +1,12 @@
 # Typical Questions and Suggested Answers
 
-UTM UECS6013 · Group 2 · PerClip Document IT System · Category: Document Management System
+UTM UECS6013 · Group 2 · PerClip RAG Document Management System · Category: Document Management System
 
 Practice material, not a record of a real question session. Answers describe a proposal. Replace unresolved details only with verified information consistent with the final charter. Each member should answer questions; suggested owners below are starting points, not exclusive speaking rights.
 
 ## 1. What are you submitting for this course? — XINGJIAN
 
-We are preparing a short proposal and team charter for Task One, followed by a project charter for Task Two and a group presentation. Our proposed project is PerClip Document IT System, in the Document Management System category. Our team is the PerClip Document Management Team. Documents will use school-account Google Docs, with Word and Markdown copies.
+We are preparing a short proposal and team charter for Task One, followed by a project charter for Task Two and a group presentation. Our proposed project is PerClip RAG Document Management System, in the Document Management System category. Our team is the PerClip Document Management Team. Documents will use school-account Google Docs, with Word and Markdown copies.
 
 ## 2. Why did you choose this project? — CHUN
 
@@ -40,13 +40,13 @@ Our proposed MOV is that, in a future five-person test using a fixed fictional c
 
 No. Four out of five within sixty seconds is a proposed future acceptance target. Without a recorded baseline, we cannot claim improvement. Any later comparison will need documented baseline observations and comparable tasks using the fixed fictional collection.
 
-## 10. What is in scope, and is AI compulsory? — CHUN
+## 10. What is in scope, and where does RAG fit? — CHUN
 
-Our proposed core scope is capture, metadata review, archiving, and retrieval through an English interface. AI or retrieval augmented generation is optional. It would need a feasibility, privacy, and cost review. We would keep it outside the baseline if it threatens the core plan.
+Our proposed core scope is capture, metadata review, archiving, and retrieval through an English interface. RAG-based questions and source-linked answers are planned system capabilities. We will define feasibility, privacy, cost and fallback requirements while keeping actual implementation outside the course document estimate.
 
 ## 11. What does RAG mean here? — CHUN
 
-Retrieval augmented generation would retrieve relevant document content before generating an answer. It could be explored as an optional aid, with links to supporting documents and appropriate access controls. It does not guarantee correct answers, and we are not claiming it has been implemented for this assignment.
+Retrieval augmented generation would retrieve relevant document content before generating an answer. It is a planned system capability, with links to supporting documents and appropriate access controls. It does not guarantee correct answers, and we are not claiming it has been implemented for this assignment.
 
 ## 12. What are your milestones? — LIN
 

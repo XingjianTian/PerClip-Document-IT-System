@@ -1,10 +1,10 @@
 # Team Charter
 
-PerClip Document IT System | Document Management System | Group 2 | UECS6013
+PerClip RAG Document Management System | Document Management System | Group 2 | UECS6013
 
 ## TEAM NAME
 
-Group 2 — PerClip Document Management Team. Project: PerClip Document IT System. The selected course category is Document Management System. This charter proposes how our five members will work together; each member must review the responsibilities and working arrangements before adoption.
+Group 2 — PerClip Document Management Team. Project: PerClip RAG Document Management System. The selected course category is Document Management System. This charter proposes how our five members will work together; each member must review the responsibilities and working arrangements before adoption.
 
 ## (Including contact details)
 
@@ -72,7 +72,7 @@ Members should acknowledge a work request within 24 hours where possible. A bloc
 
 ## Team Goals
 
-Produce a coherent Proposal and Team Charter for Task 1, a complete Project Charter for Task 2, and a clear presentation involving all five members. Keep PerClip Document IT System within a practical document-management scope and support later prototype claims with actual evidence.
+Produce a coherent Proposal and Team Charter for Task 1, a complete Project Charter for Task 2, and a clear presentation involving all five members. Keep PerClip RAG Document Management System within a practical document-management scope and support later prototype claims with actual evidence.
 
 ## Set Team Values
 

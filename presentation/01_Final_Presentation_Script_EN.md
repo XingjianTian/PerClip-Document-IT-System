@@ -1,4 +1,4 @@
-# Final Presentation Script — PerClip Document IT System
+# Final Presentation Script — PerClip RAG Document Management System
 
 UECS6013 · Group 2 · PerClip Document Management Team
 
@@ -18,17 +18,17 @@ Responsibilities: Coordinate the project, stakeholders, Team Charter, communicat
 
 Good morning. We are Group Two for UECS6013. Our team name is the PerClip Document Management Team. I am Xingjian Tian, the team leader. Our members are Chun Ze Li, Lin Zhihua, Tan Shirong, and Zhang Shuai.
 
-Our proposed project is PerClip Document IT System, in the Document Management System category. It will help users manage documents through a connected workflow, with requirements and acceptance criteria defined in the project plan.
+Our proposed project is PerClip RAG Document Management System, in the Document Management System category. It will help users manage documents through a connected workflow, with requirements and acceptance criteria defined in the project plan.
 
-The problem we want to address is scattered documents: people capture information on a phone, but may struggle to organise it and find it later. Our proposed workflow connects mobile capture, archiving, and retrieval through an English interface. AI assistance is optional.
+The problem we want to address is scattered documents: people capture information on a phone, but may struggle to organise it and find it later. Our proposed workflow connects document capture, archiving, and retrieval with planned RAG-based questions and source-linked answers.
 
 As leader, I coordinate the project, stakeholders, team charter, communication, changes, and document integration. We propose one agreed group channel and a decision log. Each member owns and reviews a contribution; personal skills and meeting arrangements remain for confirmation. I will return for the summary. Chun will now explain requirements, scope, and value.
 
 ### B — Project Charter content
 
-Good morning. We are Group Two. I am Xingjian Tian, the team leader. Our team is the PerClip Document Management Team. Our proposed project is PerClip Document IT System, in the Document Management System category. This charter sets out its purpose, boundaries, resources, and proposed acceptance criteria.
+Good morning. We are Group Two. I am Xingjian Tian, the team leader. Our team is the PerClip Document Management Team. Our proposed project is PerClip RAG Document Management System, in the Document Management System category. This charter sets out its purpose, boundaries, resources, and proposed acceptance criteria.
 
-The opportunity is to connect mobile document capture, archiving, and retrieval through a consistent English interface. A typical proposed journey is to capture a document, review its details, save it with useful metadata, and retrieve it later. Optional AI assistance would be considered only after the core workflow is defined.
+The opportunity is to connect mobile document capture, archiving, and retrieval through a consistent English interface. A typical proposed journey is to capture a document, review its details, save it with useful metadata, and retrieve it later. RAG will retrieve relevant document passages and use them to support answers with source references; basic saving and title search will remain available if the RAG service is unavailable.
 
 Our proposed stakeholders include intended document users, our five team members, and the lecturer as the course assessor. Any sponsor or acceptance authority in the charter is a planning assumption until an actual person and responsibility are confirmed. The assignment’s hypothetical sponsorship does not establish real funding or approval.
 
@@ -56,7 +56,7 @@ Thank you, Xingjian. I am Chun Ze Li. My proposed responsibility is requirements
 
 Our intended users are people who need to keep and retrieve documents. Our proposed workflow will cover capture, archiving, and retrieval. In a future five-person test, at least four participants will need to find a specified document within sixty seconds using a fixed fictional collection. This is a target, not a result. We will compare performance only if a baseline is recorded.
 
-The core scope is mobile capture, document organisation, and search. Optional AI or retrieval augmented generation would need a separate feasibility and cost check. It should not delay the core plan.
+The proposed system scope covers document capture, organisation, search, and RAG-based questions with source references. The plan will define feasibility, cost, privacy and fallback behaviour; the course deliverables remain planning documents and a presentation.
 
 For our team charter, we propose that every member owns a deliverable and reviews another member’s work. Personal skill fields remain blank. Proposed responsibilities describe ownership, not verified qualifications. Lin will explain our WBS and schedule.
 
@@ -68,7 +68,7 @@ Our proposed MOV is that, in a future five-person test, at least four participan
 
 The proposed core scope includes mobile capture, metadata review, archiving, and search through an English interface. The planning deliverables would include use cases, scope boundaries, a work breakdown structure, estimates, risks, and an acceptance plan.
 
-Optional AI or retrieval augmented generation would remain a separate extension. It would require evidence about cost, access control, and the quality of answers linked to source documents. Large scale deployment, guaranteed AI accuracy, and unapproved integrations are outside the proposed baseline.
+Retrieval augmented generation is a planned capability of the system. It would require evidence about cost, access control, and the quality of answers linked to source documents. Large scale deployment, guaranteed AI accuracy, and unapproved integrations are outside the proposed baseline.
 
 Any requested addition should be assessed for value, time, cost, and risk before changing that baseline. Lin will now describe the proposed schedule and its dependencies.
 
@@ -118,7 +118,7 @@ Our proposed budget totals MYR 2,585. Shadow labour is MYR 2,250 for ninety pers
 
 Required resources would include five members, suitable computers and a mobile device, school-account Google Docs, Word and Markdown document copies, and a meeting facility or online platform. Availability and permission to use those resources need confirmation.
 
-Deadline ambiguity has proposed high probability and high impact. Lin will confirm the cutoff, targeting nineteen November. Optional RAG scope has medium probability and high impact. Chun will define its boundary and defer additions that threaten the core plan.
+Deadline ambiguity has proposed high probability and high impact. Lin will confirm the cutoff, targeting nineteen November. RAG scope growth has medium probability and high impact. Chun will define its boundary and defer additions that threaten the core plan.
 
 Our estimates assume access to the necessary materials and timely team reviews. Unresolved access and availability questions should remain visible in the charter. Zhang will explain quality, acceptance, approval, and closure planning, before Xingjian returns for the summary.
 
@@ -142,7 +142,7 @@ Before finalising the charter, members will review commitments and provide requi
 
 Thank you, Tan. I am Zhang Shuai. My proposed responsibility covers quality planning, testing, and acceptance.
 
-Quality requirements would include a consistent English interface, correct document retrieval, clear error handling, and protection against unauthorised access. Proposed tests would trace each requirement to a scenario and expected result. These are proposed acceptance tests, without verified results.
+Quality requirements would include correct document retrieval, source references for RAG answers, clear handling of insufficient evidence, readable interface labels, and protection against unauthorised access. Proposed tests would trace each requirement to a scenario and expected result. These are proposed acceptance tests, without verified results.
 
 For document acceptance, I will check template coverage, consistent figures, readable formatting, and traceability from requirements to planned acceptance criteria. Each author checks their section and a teammate reviews it. Outstanding issues and required corrections will be recorded before approval is requested.
 
