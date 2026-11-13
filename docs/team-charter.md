@@ -1,5 +1,7 @@
 # Team Charter
 
+English | [简体中文](team-charter_ZH.md)
+
 PerClip RAG Document Management System | Document Management System | Group 2 | UECS6013
 
 ## TEAM NAME

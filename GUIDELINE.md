@@ -1,12 +1,14 @@
 # 组员上手指南 · PerClip RAG Document Management System
 
+[English](GUIDELINE_EN.md) | 简体中文
+
 UECS6013 · Group 2 · 更新：2026-11-13
 
 请先读本页，再打开统一讲稿 Google Docs，按自己的姓名找到章节。无需安装开发环境或运行系统，就能参与当前文档审阅和演示准备。GitHub 用于阅读与保存版本，Google Docs 用于协作修改。
 
 ## 1. 我们的项目是什么
 
-**PerClip RAG Document Management System** 属于作业 Appendix A 的 **Document Management System** 类别。项目计划通过英文 Android 界面，把文档采集、元数据整理、归档与检索连接起来；AI/RAG 是可选扩展，不影响核心流程的定义。
+**PerClip RAG Document Management System** 属于作业 Appendix A 的 **Document Management System** 类别。项目计划通过英文 Android 界面，把文档采集、元数据整理、归档与检索连接起来；RAG 问答及来源引用是规划功能；RAG 服务不可用时，基本保存、标题搜索和详情查看仍应可用。
 
 目前材料是项目规划草稿：目标、功能、工时、预算和验收条件都是计划，不代表开发完成、测试通过或产生了实际效果。每人需要参与自己负责内容的审阅、补充与讲解。
 
@@ -18,7 +20,7 @@ UECS6013 · Group 2 · 更新：2026-11-13
 | [Team Charter-PerClip RAG Document Management System](https://docs.google.com/document/d/1QEtU5J5U73wCyGCwEX2-MJFN66VqZpyIB1YgSM_wJv0) | 说明成员、职责、技能、会议、沟通与团队规则 | Task 1 |
 | [Project Charter-PerClip RAG Document Management System](https://docs.google.com/document/d/1zFv3wvtZOBagOc8DQkFxFpXOKsy2kZrWi4drkiAovYg) | 说明 MOV、范围、排期、预算、质量、资源、风险、管理与验收批准 | Task 2，30% |
 
-三份各有用途，都需要保留。统一讲稿是准备材料，不能替代正式作业文档。
+双语 Markdown 参考：[项目提案](docs/proposal_ZH.md)、[团队章程](docs/team-charter_ZH.md)、[项目章程](docs/project-charter_ZH.md)。三份各有用途，都需要保留。统一讲稿是准备材料，不能替代正式作业文档。
 
 ## 3. 找到自己的分工与讲稿
 
@@ -42,7 +44,7 @@ UECS6013 · Group 2 · 更新：2026-11-13
 2. 核对本人姓名；学号、联系方式、真实技能、可开会时间目前留空，由本人提供或填写。会议地点、平台、团队承诺也需实际确认。
 3. 检查自己负责的内容：是否说得清、数字是否一致、范围是否可行。需要调整时在正式 Google Docs 中提出具体评论，写清修改理由和影响。
 4. 修改内容后，同步检查统一讲稿中自己的段落；涉及预算、MOV、范围或日期时通知其他相关负责人一起核对。Google Docs 与 GitHub 不会自动同步，组长整合确认后更新仓库版本。
-5. 用自己的话复述负责内容，再用英文稿排练；准备解释“为什么这样定”，不能只会念稿。每人至少准备两个自己部分可能被问到的问题，并阅读[问答草稿](presentation/04_Typical_QA_EN.md)。
+5. 用自己的话复述负责内容，再用英文稿排练；准备解释“为什么这样定”，不能只会念稿。每人至少准备两个自己部分可能被问到的问题，并阅读[问答草稿](presentation/04_Typical_QA_ZH.md)。
 6. 全组按顺序完整排练，检查交接语、名称、数字和重复内容；实际贡献和评审完成后再确认最终版本。
 
 ## 5. 日期与 Presentation：哪些已写明
@@ -57,7 +59,7 @@ UECS6013 · Group 2 · 更新：2026-11-13
 
 **原文没有明确说必须现场，也没有写录播视频可以替代展示。** 五人分别录屏口播、最后剪成一个视频，是候选方案，必须在老师确认接受录播后再按确认规则制作。现在先按每人能讲解、能答问来准备。选定内容后，全组建议排练 8–10 分钟，不含问答；这不是老师规定。
 
-Google Docs、Word 和 Markdown 是本组协作安排，不能当作老师已指定的最终提交格式。最终文件格式、命名、提交入口和是否接受视频均需核对最新课程要求。仅在 Google Docs 写好，不代表已向课程提交。
+Google Docs 用于协作，双语 Markdown 用于参考与版本保存；这是本组安排，不能当作老师已指定的最终提交格式。最终文件格式、命名、提交入口和是否接受视频均需核对最新课程要求。仅在 Google Docs 写好，不代表已向课程提交。
 
 ## 6. 全组统一的数字与表述
 
@@ -70,8 +72,8 @@ Google Docs、Word 和 Markdown 是本组协作安排，不能当作老师已指
 
 - [作业要求与评分覆盖、Appendix A、原文定位](docs/作业要求与准备清单.md)
 - [原始要求文件](course-source/Project%20Requirements%20edited.docx)与 [原始模板目录](course-source/)
-- [Final presentation script / 唯一完整讲稿](presentation/01_Final_Presentation_Script_EN.md)
+- [唯一完整演示讲稿](presentation/01_Final_Presentation_Script_ZH.md)
 - [录制候选方案与答问准备](presentation/03_Recording_and_QA_Guide_ZH.md)
-- [WBS 与预算明细](docs/wbs-and-budget.md)
+- [WBS 与预算明细](docs/wbs-and-budget_ZH.md)
 
 本指南是组内准备说明，不能覆盖老师的原文或后续通知。最终提交前，全组应确认个人资料、会议安排、职责承诺、文档版本与展示形式。

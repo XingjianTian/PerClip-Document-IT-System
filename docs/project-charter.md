@@ -1,5 +1,7 @@
 # Project Charter
 
+English | [简体中文](project-charter_ZH.md)
+
 PerClip RAG Document Management System | Document Management System | Group 2 | UECS6013
 
 ## Name, Title and Roles, Contact Details.
@@ -126,7 +128,7 @@ At each gate, check that mandatory sections remain complete and optional prototy
 
 ZHANG should maintain a review checklist covering template completeness, English clarity, technical evidence, planned-versus-verified status, MOV testability, budget arithmetic, effort reconciliation, risk ownership and acceptance traceability. Each author self-checks their section; another member reviews it before XINGJIAN integrates the draft. Record issues and closure evidence rather than claiming unperformed tests.
 
-The document owner should inspect the completed Google Docs and Word versions and inspect every page for overflow, headings, readable tables and blank signature fields. Resolve blocking omissions before the 7 December internal freeze. Planned software tests belong to a future implementation scope and do not substitute for document review or imply the English prototype has been tested.
+The document owner should inspect the completed Google Docs and matching bilingual Markdown copies and inspect every page for overflow, headings, readable tables and blank signature fields. Resolve blocking omissions before the 7 December internal freeze. Planned software tests belong to a future implementation scope and do not substitute for document review or imply the English prototype has been tested.
 
 ## Human Resource Plan
 

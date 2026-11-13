@@ -1,17 +1,19 @@
 # 中文录制与问答准备指南
 
+[English](03_Recording_and_QA_Guide_EN.md) | 简体中文
+
 适用：UTM UECS6013 Group 2，PerClip RAG Document Management System · Category: Document Management System。
 
 ## 1. 先确认口径
 
-项目名称统一为 PerClip RAG Document Management System，类别为 Document Management System，团队名为 PerClip Document Management Team。按新项目提案呈现：移动采集、归档、检索是 proposed 核心流程，AI/RAG 是可选扩展。功能和效果用 proposed / will 表达；实际开发和验证状态未核实，不宣称已经完成或取得效果。
+项目名称统一为 PerClip RAG Document Management System，类别为 Document Management System，团队名为 PerClip Document Management Team。按新项目提案呈现：移动采集、归档、检索是 proposed 核心流程，RAG 问答及来源引用为规划功能；RAG 服务不可用时，基本保存、标题搜索及详情查看仍应可用。功能和效果用 proposed / will 表达；实际开发和验证状态未核实，不宣称已经完成或取得效果。
 
 统一英文讲稿的角色是建议分工，不等于已经确认的个人能力：
 
 | 成员 | 建议负责 | 录制前应能解释 |
 |---|---|---|
 | XINGJIAN TIAN（leader） | 项目协调、利益相关者、团队章程、沟通与变更管理、文档与演示整合 | 团队协作、利益相关者、变更流程；负责开场及最终总结 |
-| CHUN ZE LI | 问题、需求、目标、MOV、范围 | 问题与需求、核心与可选功能、如何测量价值 |
+| CHUN ZE LI | 问题、需求、目标、MOV、范围 | 问题与需求、规划功能与基本流程回退、如何测量价值 |
 | LIN ZHIHUA | WBS、依赖、排期、里程碑 | 任务依赖、里程碑、课程期限与项目计划的区别 |
 | TAN SHIRONG | 预算、资源、假设、风险 | 估算依据、成本类别、资源假设、风险应对 |
 | ZHANG SHUAI | 质量、测试规划、验收、批准与收尾计划 | 验收条件、测试证据、批准权限与收尾计划；之后交回组长总结 |
@@ -28,7 +30,7 @@
 | TAN SHIRONG | | | | |
 | ZHANG SHUAI | | | | |
 
-预算统一为计划估算：90 人时，每人 18 小时；shadow labour MYR 2,250（隐含估算费率 MYR 25/小时），optional allowance MYR 100，contingency MYR 235，总计 MYR 2,585。不是已发生支出、已确认资金或已完成工时。分阶段分配仍需与计划对应。
+预算统一为计划估算：90 人时，每人 18 小时；shadow labour MYR 2,250（隐含估算费率 MYR 25/小时），optional allowance MYR 100，contingency MYR 235，总计 MYR 2,585。不是已发生支出、已确认资金或已完成工时。此估算仅涵盖课程文档与演示准备，生产软件开发需另行估算。分阶段分配仍需与计划对应。
 
 MOV 统一为未来五人测试：使用固定 fictional collection（虚构文档集合），至少四人在 60 秒内找到指定文档。记录各人是否找到正确文档及耗时；只有记录 baseline 后才比较，不宣称已提升效率或已达到目标。
 
@@ -44,11 +46,11 @@ MOV 统一为未来五人测试：使用固定 fictional collection（虚构文�
 
 原始要求写明 Task 1 和 Task 2 截止当日 11:59 PM，每组提交一次，并提到逾期每天扣 1 分。时区没有在该段明确说明，以课程平台为准。Task 1 要求每人参与演示；评分包含答问能力，五人都应准备回答。
 
-原始文件把提交平台写成 UUM Online Learning，但模板明确是 UTM、UECS6013；这是源文件不一致，不据此推定真实入口。由负责人核对本课程实际平台、录制或现场形式、视频格式、时长及提交方式。现有文件未规定本指南建议的 6–8 分钟或 8–10 分钟，也未明确本次允许以录像替代现场演示。
+原始文件把提交平台写成 UUM Online Learning，但模板明确是 UTM、UECS6013；这是源文件不一致，不据此推定真实入口。由负责人核对本课程实际平台、录制或现场形式、视频格式、时长及提交方式。现有文件未规定本指南建议的 8–10 分钟，也未明确本次允许以录像替代现场演示。
 
 ## 4. 唯一完整讲稿的使用方法
 
-只使用 [Final Presentation Script](01_Final_Presentation_Script_EN.md)。五人在同一份共享 Google Docs 按姓名分章协作；每人内容区分 A（Proposal／Team Charter）和 B（Project Charter），以 B 为主，按需选用 A 的背景与团队安排段落；不是两次演讲，也不用分别录制两套。
+只使用 [完整演示讲稿](01_Final_Presentation_Script_ZH.md)。五人在同一份共享 Google Docs 按姓名分章协作；每人内容区分 A（Proposal／Team Charter）和 B（Project Charter），以 B 为主，按需选用 A 的背景与团队安排段落；不是两次演讲，也不用分别录制两套。
 
 不要把 A、B 全部连续念完。选定内容后删除重复介绍、数字和总结，每人仅保留一次交接，交接放在本人最后一段。组长只开场一次，在 ZHANG 后返回总结一次。标题与准备说明不朗读。
 
@@ -58,7 +60,7 @@ MOV 统一为未来五人测试：使用固定 fictional collection（虚构文�
 
 1. 五人各自读懂负责内容，统一项目、团队名称及 proposed / will 表述。
 2. 对照实际定稿文档修改稿件；预算和 MOV 只保留一个一致版本，会议时间字段保持空白。
-3. 准备清晰的提词稿，按完整句子断行。允许读稿，但要能脱稿解释概念。
+3. 准备清晰的提词稿，按完整句子断行。原文未明确禁止读稿，但要能脱稿解释概念。
 4. 安静环境下试录 15 秒，检查人声、光线、画面和屏幕文字；统一横屏及相近音量。具体格式服从课程要求。
 5. 优先五人连续录制；如分别录制，保留自然衔接句。每人自报姓名，画面或字幕标明真实姓名与负责部分。
 6. 按 XINGJIAN 开场 → CHUN → LIN → TAN → ZHANG → XINGJIAN 总结合并，句间保留短暂停顿。不要剪辑出虚构会议、讨论或现场答问。
@@ -67,7 +69,7 @@ MOV 统一为未来五人测试：使用固定 fictional collection（虚构文�
 
 原型截图由用户之后在本地制作；当前不把截图当作已交付材料。后续若使用静态原型，应标注 proposed prototype 或 concept mock-up，不表示功能已实现。避免私人文档。
 
-交付使用学校账号 Google Docs，并保留 Word / Markdown 可编辑版本，不交付 PDF。录制稿和问答可在 Google Docs 中协作审阅，最终版本保持一致。
+录制稿和问答使用学校账号 Google Docs 协作审阅，双语 Markdown 用于参考与版本保存，不交付 PDF。这是本组安排；最终提交格式以核实后的课程要求为准。
 
 ## 6. 评分覆盖核对
 
@@ -85,10 +87,10 @@ Task 2：XINGJIAN 覆盖 1 利益相关者、2 项目描述；CHUN 覆盖 3 MOV�
 - TAN：MYR 2,585 如何计算，为什么不是支出？最高优先级风险如何应对？跨角色练习：里程碑如何受风险影响？
 - ZHANG：质量标准与测试证据如何对应？谁有验收权限？跨角色练习：MOV 如何定义？
 
-使用配套英文 Q&A 作为练习答案，不要把准备过程描述成已经举行的会议或已完成的测试。轮流抽问，每人至少练两题；这是一项建议练习，不是已发生记录。
+使用配套[问答草稿](04_Typical_QA_ZH.md)作为练习答案，不要把准备过程描述成已经举行的会议或已完成的测试。轮流抽问，每人至少练两题；这是一项建议练习，不是已发生记录。
 
 ## 8. 参考材料与交付
 
 课程依据：Project Requirements edited.docx、Proposal Template 1、Team Charter Template 2、Project Charter Template 3。正式项目文档应保留所引用材料的真实出处；项目提案无需讨论源代码来源。
 
-文档交付：学校账号 Google Docs + Word / Markdown。原型截图由用户后续本地制作。全员检查姓名、角色、预算、MOV、日期及未填字段的一致性。
+原型截图由用户后续本地制作。全员检查姓名、角色、预算、MOV、日期及未填字段的一致性。

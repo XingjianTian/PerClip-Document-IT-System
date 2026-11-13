@@ -1,5 +1,7 @@
 # Work breakdown and estimated budget
 
+English | [简体中文](wbs-and-budget_ZH.md)
+
 All hours and costs are planning assumptions. Personal skills and availability remain blank for confirmation. This estimate covers documents and presentation; production software development requires a separate estimate.
 
 | Member | Proposed responsibility | P1 | P2 | P3 | P4 | Total hours |

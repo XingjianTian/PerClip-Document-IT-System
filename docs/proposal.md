@@ -1,5 +1,7 @@
 # Proposal
 
+English | [简体中文](proposal_ZH.md)
+
 PerClip RAG Document Management System | Document Management System | Group 2 | UECS6013
 
 ## Includes general overview of the project. What are the problems related with current business process (problem statement)? Describe the possible stakeholders.

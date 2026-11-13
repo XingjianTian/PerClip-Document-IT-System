@@ -2,6 +2,8 @@
 
 UECS6013 · Group 2 · PerClip Document Management Team
 
+Language: **English** | [中文](01_Final_Presentation_Script_ZH.md)
+
 This is the only complete presentation script. Each speaker has A (Proposal / Team Charter) and B (Project Charter) content. B is the main presentation route; A supplies optional background and team-arrangement wording. Select relevant paragraphs from A and B; do not read both versions verbatim. Use one introduction, one handover per speaker and one leader conclusion. Headings and preparation notes are not spoken.
 
 Order: XINGJIAN opening → CHUN → LIN → TAN → ZHANG → XINGJIAN conclusion. When selecting paragraphs, move the handover to the end of that speaker’s selected content and remove duplicate introductions, figures and summaries. The leader’s conclusion options are in XINGJIAN’s chapter and are delivered after ZHANG.
@@ -116,7 +118,7 @@ Thank you, Lin. I am Tan Shirong. My proposed responsibility is budget, resource
 
 Our proposed budget totals MYR 2,585. Shadow labour is MYR 2,250 for ninety person-hours, with eighteen hours per member. The implied planning rate is MYR 25 per hour. An optional allowance adds MYR 100, and contingency adds MYR 235. These figures are planning estimates, not expenditure or confirmed funding.
 
-Required resources would include five members, suitable computers and a mobile device, school-account Google Docs, Word and Markdown document copies, and a meeting facility or online platform. Availability and permission to use those resources need confirmation.
+Required resources would include five members, suitable computers and a mobile device, school-account Google Docs and bilingual Markdown reading copies, and a meeting facility or online platform. Availability and permission to use those resources need confirmation.
 
 Deadline ambiguity has proposed high probability and high impact. Lin will confirm the cutoff, targeting nineteen November. RAG scope growth has medium probability and high impact. Chun will define its boundary and defer additions that threaten the core plan.
 

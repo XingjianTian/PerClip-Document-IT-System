@@ -2,11 +2,13 @@
 
 UTM UECS6013 · Group 2 · PerClip RAG Document Management System · Category: Document Management System
 
+Language: **English** | [中文](04_Typical_QA_ZH.md)
+
 Practice material, not a record of a real question session. Answers describe a proposal. Replace unresolved details only with verified information consistent with the final charter. Each member should answer questions; suggested owners below are starting points, not exclusive speaking rights.
 
 ## 1. What are you submitting for this course? — XINGJIAN
 
-We are preparing a short proposal and team charter for Task One, followed by a project charter for Task Two and a group presentation. Our proposed project is PerClip RAG Document Management System, in the Document Management System category. Our team is the PerClip Document Management Team. Documents will use school-account Google Docs, with Word and Markdown copies.
+We are preparing a short proposal and team charter for Task One, followed by a project charter for Task Two and a group presentation. Our proposed project is PerClip RAG Document Management System, in the Document Management System category. Our team is the PerClip Document Management Team. Documents will use school-account Google Docs for collaborative editing and bilingual Markdown for reading.
 
 ## 2. Why did you choose this project? — CHUN
 
@@ -84,9 +86,9 @@ Our proposed closure process would compare outputs with agreed criteria, record 
 
 This presentation describes planned work and proposed team practices. It does not establish that meetings, tests, or demonstrations have occurred. We should report completed activities only when we have a genuine record and can explain what was done, by whom, and with what result.
 
-## 21. Are these presentation durations required? — XINGJIAN
+## 21. Is the suggested presentation duration required? — XINGJIAN
 
-No. Six to eight minutes for Task One and about eight to ten minutes for the charter presentation are our suggested rehearsal timings. We must follow any duration or delivery instructions given by the lecturer. Questions would need additional time. Delivery mode remains unconfirmed; a recording would be used only if the lecturer accepts it.
+No. The suggested rehearsal target is 8–10 minutes for one selected final whole-group presentation, excluding questions; it is not a course requirement. Select relevant A and B paragraphs from the single script rather than deliver two talks or read both versions verbatim. Timing depends on selected content and actual speaking speed. We must follow any duration or delivery instructions given by the lecturer. Delivery mode and video acceptance remain unconfirmed; a recording would be used only if the lecturer accepts it.
 
 ## 22. What remains unresolved? — Any member
 
