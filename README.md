@@ -4,7 +4,7 @@ UECS6013 Group 2 · **Document Management System** · PerClip Document Managemen
 
 **组员先读：[上手指南 / Group Guideline](GUIDELINE.md)** — 文档用途、统一 Google Docs 讲稿、五人分工、阅读顺序与演示准备。
 
-An AI-oriented document management system for document capture, organization, archival, and retrieval. This repository contains the project planning and presentation documents.
+A RAG document management system for document capture, organization, archival, and retrieval. This repository contains the project planning and presentation documents.
 
 ## Editable documents
 
