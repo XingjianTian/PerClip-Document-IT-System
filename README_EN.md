@@ -6,7 +6,7 @@ UECS6013 · Group 2 · Document Management System
 
 PerClip is a proposed RAG document management system for document capture, organization, archival, retrieval, and questions answered with source references. This repository holds course project planning and presentation materials.
 
-Start with the [group guideline](GUIDELINE_EN.md). **Edit together in Google Docs; use this repository for English and Chinese reading copies.** The leader synchronizes content after edits; links do not synchronize content automatically.
+Start with the [group guideline](GUIDELINE_EN.md). **Collaborate directly in Google Docs, where edits sync in real time. This repository provides English and Chinese reading copies.**
 
 ## Prototype preview
 

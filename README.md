@@ -6,7 +6,7 @@ UECS6013 · Group 2 · Document Management System
 
 PerClip 是一个规划中的 RAG 文档管理系统，连接文档采集、整理、归档、检索，以及带来源引用的问答。本仓库存放课程项目规划和展示材料。
 
-组员先读[上手指南](GUIDELINE.md)。**Google Docs 用于共同修改；仓库提供中英文阅读版。** 修改内容后由组长同步两边，链接不会自动同步内容。
+组员先读[上手指南](GUIDELINE.md)。**大家直接在 Google Docs 中共同编辑，修改会实时同步；仓库提供中英文阅读版。**
 
 ## 原型界面预览
 
