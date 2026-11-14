@@ -1,10 +1,10 @@
 # Android interface screenshot catalogue
 
-Captured on 13 November 2026 using PerClip Dev 0.3.0 on an isolated Android 15 (API 35) emulator, with English app language. This is a catalogue of application screens, **not functional acceptance testing**. Main-app screens use a fresh installation and an unsaved synthetic draft. Populated Knowledge, library, Recall and Settings screens use the application’s built-in offline Debug fixtures. These fixtures are absent from Release builds. Counts, documents, topics, connection details and errors shown are fictional; they do not demonstrate live synchronization, AI answering, RAGFlow availability or real user activity. Chinese titles and fixture-provided messages remain original sample content.
+Captured on 14 November 2026 using PerClip Dev 0.3.0 on an isolated Android 15 (API 35) emulator, with English app language. This is a catalogue of application screens, **not functional acceptance testing**. Main-app screens use a fresh installation and an unsaved synthetic draft. Populated Knowledge, library, Recall and Settings screens use the application’s built-in offline Debug fixtures. These fixtures are absent from Release builds. Counts, documents, topics, connection details and errors shown are fictional; they do not demonstrate live synchronization, AI answering, RAGFlow availability or real user activity. All fixture display content is synthetic English. Real user content is not translated. Navigation uses short English labels and separates the system gesture area from the floating card.
 
 The files are direct Android screenshots with no compositing, text replacement or retouching. `01` = capture, `02` = Knowledge and detail, `03` = libraries, `04` = Memory Planet/Recall, `05` = Settings. Numbers identify an image, not a chronological feature test. Consecutive images for a screen show its sections, dialogs or alternative states. Android permission/file-picker surfaces belong to the operating system.
 
-Application source baseline: public main `0a66cd4`, with local `codex/android-english-ui` modifications. APK SHA-256: `f517115102f007977590f15f8f9657fb4ce63660aca04e33bea3553ec0408e4c`. The APK and application source are not included in this document repository.
+Application source baseline: public main `0a66cd4`, with local `codex/android-english-ui` modifications. The catalogue includes the local navigation and English-spacing corrections. The APK and application source are not included in this document repository.
 
 ## Image index
 
@@ -13,7 +13,7 @@ Application source baseline: public main `0a66cd4`, with local `codex/android-en
 | [01-01](screenshots/01-01.png) | Flash Note — empty composer | Text entry, attachment and recording actions, default-library entry and main navigation. | Actual app; fresh isolated emulator |
 | [01-02](screenshots/01-02.png) | Flash Note — text draft | A synthetic course-note draft before saving. | Actual app; synthetic unsaved draft |
 | [01-03](screenshots/01-03.png) | Flash Note — attachment picker | Android attachment selection surface; no personal files are selected. | Offline Debug fixture |
-| [01-04](screenshots/01-04.png) | Flash Note — microphone permission | Android microphone-permission prompt; recording is not started. | Offline Debug fixture |
+| [01-04](screenshots/01-04.png) | Flash Note — microphone permission | Android microphone permission opened from Record; permission is not granted. | Actual app and Android permission prompt |
 | [02-01](screenshots/02-01.png) | Knowledge — populated list | Synthetic saved documents, processing states, summaries and source labels. | Offline Debug fixture |
 | [02-02](screenshots/02-02.png) | Knowledge — filter sheet | Status, platform, document type and attachment filters. | Offline Debug fixture |
 | [02-03](screenshots/02-03.png) | Knowledge — empty list | Empty-state guidance when no local documents are available. | Offline Debug fixture |
@@ -21,7 +21,7 @@ Application source baseline: public main `0a66cd4`, with local `codex/android-en
 | [02-05](screenshots/02-05.png) | Memory detail — original content | Detail heading, capture date, source and preserved original synthetic text. | Offline Debug fixture |
 | [02-06](screenshots/02-06.png) | Memory detail — URL | Original-URL presentation; the URL is sample fixture content, not a fetched page. | Offline Debug fixture |
 | [02-07](screenshots/02-07.png) | Memory detail — loading | Loading-state presentation only. | Offline Debug fixture |
-| [02-08](screenshots/02-08.png) | Memory detail — error | Fixture-provided unavailable-detail state; Chinese fixture error text is preserved. | Offline Debug fixture |
+| [02-08](screenshots/02-08.png) | Memory detail — error | Fixture-provided unavailable-detail state. | Offline Debug fixture |
 | [02-09](screenshots/02-09.png) | Knowledge — filter sheet, lower section | Remaining type and attachment filter options after scrolling. | Offline Debug fixture |
 | [03-01](screenshots/03-01.png) | Libraries — management list | Synthetic library list and management actions. | Offline Debug fixture |
 | [03-02](screenshots/03-02.png) | Libraries — empty state | Library management with no entries. | Offline Debug fixture |
@@ -29,9 +29,9 @@ Application source baseline: public main `0a66cd4`, with local `codex/android-en
 | [03-04](screenshots/03-04.png) | Libraries — dark appearance | Library management in dark appearance. | Offline Debug fixture |
 | [03-05](screenshots/03-05.png) | Libraries — creation dialog | Library name and optional description fields; nothing submitted. | Offline Debug fixture |
 | [03-06](screenshots/03-06.png) | Libraries — archived section | Expanded archived-library list using fictional entries. | Offline Debug fixture |
-| [03-07](screenshots/03-07.png) | Libraries — action menu | Actions exposed by the library overflow menu; no mutation is submitted. | Offline Debug fixture |
-| [03-08](screenshots/03-08.png) | Libraries — rename dialog | Existing fictional library name in the rename dialog; nothing is submitted. | Offline Debug fixture |
-| [04-01](screenshots/04-01.png) | Memory Planet — overview | Synthetic topic orbits, linked memories and topic insights. Chinese sample titles remain original content. | Offline Debug fixture |
+| [03-07](screenshots/03-07.png) | Libraries — action menu | Library overflow actions; nothing is submitted. | Offline Debug fixture |
+| [03-08](screenshots/03-08.png) | Libraries — edit dialog | Editable fictional library metadata; changes are not submitted. | Offline Debug fixture |
+| [04-01](screenshots/04-01.png) | Memory Planet — overview | Synthetic topic orbits, linked memories and topic insights. | Offline Debug fixture |
 | [04-02](screenshots/04-02.png) | Memory Planet — topic | Topic-focused navigation and related synthetic documents. | Offline Debug fixture |
 | [04-03](screenshots/04-03.png) | Memory Planet — monthly window | Monthly window selected. The no-connection message is visible; no monthly data retrieval is demonstrated. | Offline Debug fixture |
 | [04-04](screenshots/04-04.png) | Memory Planet — compact display | Reduced visible topics and memory labels. | Offline Debug fixture |
@@ -46,7 +46,7 @@ Application source baseline: public main `0a66cd4`, with local `codex/android-en
 | [04-13](screenshots/04-13.png) | Memory Planet — options menu | Overview actions and navigation options. | Offline Debug fixture |
 | [04-14](screenshots/04-14.png) | Memory Planet — topic memories | Lower topic page with related synthetic memory cards. | Offline Debug fixture |
 | [04-15](screenshots/04-15.png) | Memory Planet — display settings, lower section | Remaining topic toggles and restore-default action. | Offline Debug fixture |
-| [04-16](screenshots/04-16.png) | Memory Planet — custom date range | Custom date range selection surface; no query is submitted. | Offline Debug fixture |
+| [04-16](screenshots/04-16.png) | Memory Planet — custom date range | Custom date range selection; no query is submitted. | Offline Debug fixture |
 | [05-01](screenshots/05-01.png) | Settings — home | Connection, capture, libraries, Memory Planet, appearance and reduce-motion entries. | Offline Debug fixture |
 | [05-02](screenshots/05-02.png) | Settings — connection | Full connection page with fictional address, masked token, connection controls and optional RAGFlow check; statuses are fixture-provided. | Offline Debug fixture |
 | [05-04](screenshots/05-04.png) | Settings — capture and ingest | Device identity, network preferences, system shortcuts and queue summary. | Offline Debug fixture |
@@ -78,7 +78,7 @@ Android attachment selection surface; no personal files are selected.
 
 ### 01-04 — Flash Note — microphone permission
 
-Android microphone-permission prompt; recording is not started.
+Android microphone permission opened from Record; permission is not granted.
 
 ![Flash Note — microphone permission](screenshots/01-04.png)
 
@@ -126,7 +126,7 @@ Loading-state presentation only.
 
 ### 02-08 — Memory detail — error
 
-Fixture-provided unavailable-detail state; Chinese fixture error text is preserved.
+Fixture-provided unavailable-detail state.
 
 ![Memory detail — error](screenshots/02-08.png)
 
@@ -174,19 +174,19 @@ Expanded archived-library list using fictional entries.
 
 ### 03-07 — Libraries — action menu
 
-Actions exposed by the library overflow menu; no mutation is submitted.
+Library overflow actions; nothing is submitted.
 
 ![Libraries — action menu](screenshots/03-07.png)
 
-### 03-08 — Libraries — rename dialog
+### 03-08 — Libraries — edit dialog
 
-Existing fictional library name in the rename dialog; nothing is submitted.
+Editable fictional library metadata; changes are not submitted.
 
-![Libraries — rename dialog](screenshots/03-08.png)
+![Libraries — edit dialog](screenshots/03-08.png)
 
 ### 04-01 — Memory Planet — overview
 
-Synthetic topic orbits, linked memories and topic insights. Chinese sample titles remain original content.
+Synthetic topic orbits, linked memories and topic insights.
 
 ![Memory Planet — overview](screenshots/04-01.png)
 
@@ -276,7 +276,7 @@ Remaining topic toggles and restore-default action.
 
 ### 04-16 — Memory Planet — custom date range
 
-Custom date range selection surface; no query is submitted.
+Custom date range selection; no query is submitted.
 
 ![Memory Planet — custom date range](screenshots/04-16.png)
 

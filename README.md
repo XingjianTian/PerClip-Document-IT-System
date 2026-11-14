@@ -33,3 +33,5 @@ Task 1 日期为 2026-11-20，Task 2 为 2026-12-08，Presentation 为 2026-12-1
 [课程原始文件](course-source/)保留不变。尚未向课程提交作业或向老师、组员发送消息；网络盘同步仍未完成。
 
 界面截图与逐张说明：见 [interface-gallery](interface-gallery/说明_ZH.md)，按模块编号，使用合成示例数据；这些素材不代表功能验收。
+
+演讲配图提示：[English](presentation/05_Screenshot_Cues_EN.md) · [中文](presentation/05_Screenshot_Cues_ZH.md)，按五位成员、讲稿段落及图片编号对应，附简短英文介绍。

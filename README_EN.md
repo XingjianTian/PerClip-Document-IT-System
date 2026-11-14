@@ -33,3 +33,5 @@ Task 1 is dated 20 November 2026, Task 2 8 December and Presentation 10 December
 [Original course files](course-source/) remain unchanged. No university submission or message to the lecturer/group has been made. Network-drive synchronization remains pending.
 
 Interface screenshots and per-image descriptions: see [interface-gallery](interface-gallery/README.md). Images are numbered by module and use synthetic sample data; they are not functional acceptance evidence.
+
+Presentation screenshot cues: [English](presentation/05_Screenshot_Cues_EN.md) · [中文](presentation/05_Screenshot_Cues_ZH.md). Match each speaker’s paragraph to the numbered image and a short English introduction.

@@ -17,3 +17,20 @@ The handoff and migration warning were delivered. On a subsequent progress check
 ## Screenshot delivery — 13 November 2026
 
 The Android English UI candidate is complete locally. The user subsequently authorized capturing interface screenshots and publishing them to this document repository, superseding the earlier no-course-screenshot restriction above. The latest request explicitly asks for an interface catalogue rather than functional testing or a video. See [the screenshot folder](../interface-gallery/README.md) for numbered images, descriptions and the offline-fixture boundary. No OpenScreen recording was started.
+
+## Screenshot correction and presentation cues — 14 November 2026
+
+The user identified Chinese synthetic content and wrapped English navigation in
+the initial catalogue. The Debug fixture content was translated into synthetic
+English and the screenshots were recaptured directly from Android. The local
+application candidate now uses short English tabs, single-line labels and a
+system navigation inset outside the floating card. Library badge spacing and
+the filter action also accommodate English text. The application source remains
+local; this document publication is not an application release.
+
+See [the corrected gallery](../interface-gallery/README.md) and the
+[per-speaker English screenshot cues](../presentation/05_Screenshot_Cues_EN.md).
+The guide names the paragraph, image and brief English introduction for every
+speaker, keeps schedule/budget figures in the charter tables, and returns the
+conclusion to Xingjian after Zhang. Screenshots remain synthetic UI examples,
+not evidence of participant tests or live AI/RAG acceptance. No video was made.

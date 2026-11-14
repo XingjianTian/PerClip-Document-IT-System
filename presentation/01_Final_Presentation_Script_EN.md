@@ -4,6 +4,8 @@ UECS6013 · Group 2 · PerClip Document Management Team
 
 Language: **English** | [中文](01_Final_Presentation_Script_ZH.md)
 
+Slide operator: [per-speaker screenshot cues and short English introductions](05_Screenshot_Cues_EN.md). These are non-spoken preparation notes; the script below remains the speaking text.
+
 This is the only complete presentation script. Each speaker has A (Proposal / Team Charter) and B (Project Charter) content. B is the main presentation route; A supplies optional background and team-arrangement wording. Select relevant paragraphs from A and B; do not read both versions verbatim. Use one introduction, one handover per speaker and one leader conclusion. Headings and preparation notes are not spoken.
 
 Order: XINGJIAN opening → CHUN → LIN → TAN → ZHANG → XINGJIAN conclusion. When selecting paragraphs, move the handover to the end of that speaker’s selected content and remove duplicate introductions, figures and summaries. The leader’s conclusion options are in XINGJIAN’s chapter and are delivered after ZHANG.
