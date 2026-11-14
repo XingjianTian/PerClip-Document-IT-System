@@ -8,6 +8,22 @@ PerClip is a proposed RAG document management system for document capture, organ
 
 Start with the [group guideline](GUIDELINE_EN.md). **Edit together in Google Docs; use this repository for English and Chinese reading copies.** The leader synchronizes content after edits; links do not synchronize content automatically.
 
+## Prototype preview
+
+Five core screens from the current Android prototype, using synthetic English examples. These illustrate the interface; live RAG answers and completed acceptance testing are not demonstrated. Click an image to enlarge it.
+
+| Capture a note | Browse saved content | Read original content |
+| --- | --- | --- |
+| [<img src="interface-gallery/screenshots/01-02.png" width="240" alt="Capture a note">](interface-gallery/screenshots/01-02.png) | [<img src="interface-gallery/screenshots/02-01.png" width="240" alt="Browse saved content">](interface-gallery/screenshots/02-01.png) | [<img src="interface-gallery/screenshots/02-05.png" width="240" alt="Read original content">](interface-gallery/screenshots/02-05.png) |
+| Write a note, with attachment and recording actions. | View saved items, search by title and open filters. | Open an item to read its original text, source and capture time. |
+
+| Manage libraries | Explore Memory Planet |
+| --- | --- |
+| [<img src="interface-gallery/screenshots/03-01.png" width="240" alt="Manage libraries">](interface-gallery/screenshots/03-01.png) | [<img src="interface-gallery/screenshots/04-01.png" width="240" alt="Explore Memory Planet">](interface-gallery/screenshots/04-01.png) |
+| Organize content into libraries and choose a default destination. | Browse topic connections and revisit related notes. |
+
+[Full screenshot catalogue](interface-gallery/README.md) · [Per-speaker screenshot cues](presentation/05_Screenshot_Cues_EN.md)
+
 ## Documents
 
 | Document | Purpose | Google Docs collaboration draft (English) | English reading copy | 中文 |

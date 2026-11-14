@@ -8,6 +8,22 @@ PerClip 是一个规划中的 RAG 文档管理系统，连接文档采集、整�
 
 组员先读[上手指南](GUIDELINE.md)。**Google Docs 用于共同修改；仓库提供中英文阅读版。** 修改内容后由组长同步两边，链接不会自动同步内容。
 
+## 原型界面预览
+
+下面五张是当前 Android 原型的核心界面，使用英文合成示例展示采集、整理和回顾流程。截图不代表在线 RAG 问答或功能验收已完成；点击图片可放大。
+
+| 闪记采集 | 知识列表 | 原文详情 |
+| --- | --- | --- |
+| [<img src="interface-gallery/screenshots/01-02.png" width="240" alt="闪记采集">](interface-gallery/screenshots/01-02.png) | [<img src="interface-gallery/screenshots/02-01.png" width="240" alt="知识列表">](interface-gallery/screenshots/02-01.png) | [<img src="interface-gallery/screenshots/02-05.png" width="240" alt="原文详情">](interface-gallery/screenshots/02-05.png) |
+| 记录文字，并可添加附件或录音。 | 集中查看已保存的内容，按标题查找或筛选。 | 查看条目的原文、来源和采集时间。 |
+
+| 知识库管理 | 记忆星球 |
+| --- | --- |
+| [<img src="interface-gallery/screenshots/03-01.png" width="240" alt="知识库管理">](interface-gallery/screenshots/03-01.png) | [<img src="interface-gallery/screenshots/04-01.png" width="240" alt="记忆星球">](interface-gallery/screenshots/04-01.png) |
+| 按用途分库整理，并选择默认保存位置。 | 用主题图谱浏览内容之间的关联，回顾相关笔记。 |
+
+[查看完整图册](interface-gallery/说明_ZH.md) · [查看演讲配图提示](presentation/05_Screenshot_Cues_ZH.md)
+
 ## 文档导航
 
 | 文档 | 用途 | Google Docs 协作稿（英文） | 中文阅读版 | English |
