@@ -14,9 +14,17 @@ The project aims to reduce the time staff spend searching across scattered mobil
 
 ### 1.2 Scope
 
-**In scope.** The initial release covers end-to-end Android document capture (PDFs, web links, and text notes), self-hosted archiving, title search, and RAG question answering with direct source links. It also includes user onboarding materials, access control setup, backup procedures, and operational handover to IT operations. Before launch, the development team and system administrator will verify that users can still save and find documents by title when the RAG service is unavailable.
+**In scope:**
+- Android document capture (PDFs, web links, and text notes) and self-hosted archiving.
+- Title search and RAG question answering with direct source passage links.
+- User onboarding materials, access control setup, backup procedures, and handover to IT operations.
+- Pre-launch verification with the system administrator that users can still save and find documents by title when the RAG service is unavailable.
 
-**Out of scope.** The first release excludes an iOS client, multi-tenant cloud hosting, enterprise-wide single sign-on integration, and automated migration of existing third-party archives.
+**Out of scope:**
+- iOS client development.
+- Multi-tenant cloud hosting.
+- Enterprise-wide single sign-on (SSO) integration.
+- Automated migration of existing third-party archives.
 
 ## 2. References
 
