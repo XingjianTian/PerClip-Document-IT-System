@@ -78,29 +78,23 @@ Following the team governance and value delivery principles in the PMBOK Guide (
 
 ### 8.1 Team Goals
 
-1. Deliver a cohesive, well-structured **Project Proposal and Team Charter** by **20 November 2026** (Task 1).
-2. Deliver a thorough, internally consistent **Project Charter** by **8 December 2026** (Task 2).
-3. Execute a clear, well-rehearsed **Group Presentation** on **10 December 2026** with active participation from all five members.
-4. Focus the initial release on measurable user value—enabling at least four out of five users to find a specified document within 60 seconds, verifying title-search fallback when RAG is unavailable, and preparing handover to IT operations.
+1. Deliver Task 1 (Proposal & Team Charter, 20 Nov), Task 2 (Project Charter, 8 Dec), and the Group Presentation (10 Dec) on schedule with full participation.
+2. Keep the initial PerClip release focused on the 60-second retrieval benchmark, RAG outage fallback verification, and IT operations handover.
 
 ### 8.2 Team Values
 
-- **Transparency & Accountability:** Communicate progress and bottlenecks early; take full ownership of assigned sections.
-- **Constructive Collaboration:** Provide specific, actionable feedback during peer reviews and respect each member's academic schedule.
-- **Clarity & Evidence-Based Decisions:** Use clear, consistent terminology across all deliverables and ground release recommendations in comparative search timings, user feedback, and ongoing support costs.
+- **Accountability & Transparency:** Own assigned deliverables and flag blockers early.
+- **Constructive Peer Review:** Provide actionable feedback within 24 hours and base decisions on verified retrieval metrics and cost estimates.
 
 ### 8.3 Team Code of Ethics
 
-- **Honesty & Accurate Reporting:** Report project progress, cost estimates, and retrieval test results accurately, and cite published literature in APA 7th format.
-- **Fair Attribution & Accountability:** Credit each member's actual contributions fairly, verify the technical accuracy of all shared deliverables, and uphold institutional integrity standards.
-- **Data Privacy:** Keep API keys, server credentials, and private personal files strictly out of shared repositories, documents, and demonstration environments.
+- **Accurate Reporting & Attribution:** Report progress, costs, and test results honestly, credit actual contributions, and cite sources in APA 7th format.
+- **Data Privacy:** Keep API keys, credentials, and private files out of shared repositories and documents.
 
 ### 8.4 Operational Rules & Conflict Resolution
 
-- **Drafting & Peer Review:** Section owners submit drafts prior to internal gate dates; assigned reviewers return feedback within 24 hours. While the Team Leader handles final formatting and integration, each owner remains accountable for the technical accuracy of their section.
-- **Change Control:** Any proposed change to scope, schedule, or budget—such as adding new document sources or platform targets—must be assessed for its impact on delivery timelines and support costs before updating the baseline.
-- **Missed Deadlines:** If a member falls behind schedule, they must notify the Team Leader immediately to agree on a recovery plan. Reassignment of tasks occurs only through an explicit group decision, and final contribution records will reflect actual effort delivered.
-- **Decision Making & Escalation:** Decisions are reached by team consensus after reviewing trade-offs. If an impasse remains unresolved, competing options are documented and escalated to the project sponsor or academic reviewer.
+- **Reviews & Change Control:** Submit drafts before gate dates; scope, schedule, or budget changes require team consensus after assessing delivery impact.
+- **Absences & Escalation:** Notify the Team Leader immediately if behind schedule to agree on a recovery plan; unresolved deadlocks are documented and escalated to the sponsor or academic reviewer.
 
 ## 9. Signatures
 
