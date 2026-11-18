@@ -17,7 +17,7 @@ The PerClip Document Management Team consists of five members responsible for pr
 
 | Role | Full Name | Matriculation No. | Email / Contact |
 | --- | --- | --- | --- |
-| Team Leader | Xingjian Tian | \_\_\_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
+| Team Leader | Xingjian Tian | \_\_\_\_\_\_\_\_\_\_ | xingjian@graduate.utm.my |
 | Member | Li Chunze | \_\_\_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
 | Member | Lin Zhihua | \_\_\_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
 | Member | Tan Shirong | \_\_\_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
@@ -53,23 +53,23 @@ Following the team governance and value delivery principles in the PMBOK Guide (
 
 | Meeting Type | Schedule & Time (MYT / UTC+8) | Purpose |
 | --- | --- | --- |
-| **Weekly Sync** | Every \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ at \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | Review weekly progress, resolve blockers, and align upcoming tasks. |
-| **Kickoff Meeting** | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ at \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | Finalize role ownership, skill matrix, and communication channels. |
-| **Gate Review 1** | 18 November 2026 at \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | Baseline review for the Project Proposal and Team Charter. |
-| **Gate Review 2** | 4 December 2026 at \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | Integration and release-readiness review for the Project Charter. |
-| **Presentation Rehearsal** | 9 December 2026 at \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | Full five-member dry run and Q&A preparation prior to 10 Dec presentation. |
+| **Weekly Sync** | Weekly on Thursday at 20:00 MYT (as needed) | Review weekly progress, resolve blockers, and align upcoming tasks. |
+| **Kickoff Meeting** | 13 November 2026 at 20:00 MYT | Finalize role ownership, skill matrix, and communication channels. |
+| **Gate Review 1** | 18 November 2026 at 20:00 MYT | Baseline review for the Project Proposal and Team Charter. |
+| **Gate Review 2** | 4 December 2026 at 20:00 MYT | Integration and release-readiness review for the Project Charter. |
+| **Presentation Rehearsal** | 9 December 2026 at 20:00 MYT | Full five-member dry run and Q&A preparation prior to 10 Dec presentation. |
 
 *Meeting Protocol:* At least 12 hours before each scheduled sync, section owners post a brief update covering completed work, remaining hours, and any blockers. All decisions made during meetings are logged with an assigned owner and due date.
 
 ## 6. Agreed Upon Meeting Locations
 
-- **Primary Online Channel:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ *(e.g., Microsoft Teams / Zoom / Tencent Meeting — insert link)*
-- **Physical Venue (when applicable):** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ *(e.g., Faculty of Computing Discussion Room / Library, UTM Johor Bahru)*
+- **Primary Online Channel:** Google Meet (link to be generated upon session)
+- **Physical Venue (when applicable):** UTM Faculty of Computing Level 5 Meeting Room
 - **Shared Workspace:** Shared Google Docs and a version-controlled GitHub repository for collaborative drafting, issue tracking, and peer reviews.
 
 ## 7. Team Communication
 
-- **Day-to-Day Coordination:** A dedicated group messaging channel (\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_) is used for quick updates, scheduling, and blocker alerts. Any chat discussion that alters scope, schedule, or deliverables is formally recorded in the team's decision log.
+- **Day-to-Day Coordination:** A dedicated group messaging channel (WeChat group) is used for quick updates, scheduling, and blocker alerts. Any chat discussion that alters scope, schedule, or deliverables is formally recorded in the team's decision log.
 - **Task & Document Tracking:** Work items are tracked via a shared task board / GitHub Issues, and document updates undergo structured peer review before merging into the master draft.
 - **Response Time Standards:** Members acknowledge routine messages and review requests within **24 hours**. Urgent blockers affecting an approaching deadline must be flagged on the **same day**.
 - **Stakeholder Escalation & Milestone Delivery:** Cross-cutting questions affecting scope, resources, or acceptance criteria are consolidated by the Team Leader for review with the project sponsor and academic reviewer. The Team Leader (or a designated representative) coordinates the single official delivery of each milestone package.
