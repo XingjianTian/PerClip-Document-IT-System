@@ -17,7 +17,7 @@ UECS6013 · Group 2 · 更新：2026-11-13
 | 文档 | 用途 | 对应任务 |
 |---|---|---|
 | [Proposal-PerClip RAG Document Management System](https://docs.google.com/document/d/12U-Q6nHU0VVJLd2f1suqiXmoiz9uk8S6T-kdf8JUYJo/edit) | 说明问题、项目目的、利益相关者与范围 | Task 1，连同 Team Charter 共 15% |
-| [Team Charter-PerClip RAG Document Management System](https://docs.google.com/document/d/1QEtU5J5U73wCyGCwEX2-MJFN66VqZpyIB1YgSM_wJv0) | 说明成员、职责、技能、会议、沟通与团队规则 | Task 1 |
+| [Team Charter-PerClip RAG Document Management System](https://docs.google.com/document/d/1hINq9tykmjUGoifnwC85BEKo9WYC15juCXi95lnv9Ss/edit) | 说明成员、职责、技能、会议、沟通与团队规则 | Task 1 |
 | [Project Charter-PerClip RAG Document Management System](https://docs.google.com/document/d/1zFv3wvtZOBagOc8DQkFxFpXOKsy2kZrWi4drkiAovYg) | 说明 MOV、范围、排期、预算、质量、资源、风险、管理与验收批准 | Task 2，30% |
 
 双语 Markdown 参考：[项目提案](docs/proposal_ZH.md)、[团队章程](docs/team-charter_ZH.md)、[项目章程](docs/project-charter_ZH.md)。三份各有用途，都需要保留。统一讲稿是准备材料，不能替代正式作业文档。

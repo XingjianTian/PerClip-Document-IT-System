@@ -17,7 +17,7 @@ These materials are project planning drafts. Goals, features, effort, budgets an
 | Document | Purpose | Assessment task |
 |---|---|---|
 | [Proposal-PerClip RAG Document Management System](https://docs.google.com/document/d/12U-Q6nHU0VVJLd2f1suqiXmoiz9uk8S6T-kdf8JUYJo/edit) | Problem, project purpose, stakeholders and scope | Task 1, together with Team Charter: 15% |
-| [Team Charter-PerClip RAG Document Management System](https://docs.google.com/document/d/1QEtU5J5U73wCyGCwEX2-MJFN66VqZpyIB1YgSM_wJv0) | Members, responsibilities, skills, meetings, communication and team rules | Task 1 |
+| [Team Charter-PerClip RAG Document Management System](https://docs.google.com/document/d/1hINq9tykmjUGoifnwC85BEKo9WYC15juCXi95lnv9Ss/edit) | Members, responsibilities, skills, meetings, communication and team rules | Task 1 |
 | [Project Charter-PerClip RAG Document Management System](https://docs.google.com/document/d/1zFv3wvtZOBagOc8DQkFxFpXOKsy2kZrWi4drkiAovYg) | MOV, scope, schedule, budget, quality, resources, risks, administration, acceptance and approval | Task 2: 30% |
 
 Markdown references: [Proposal](docs/proposal.md), [Team Charter](docs/team-charter.md), [Project Charter](docs/project-charter.md). All three serve distinct purposes and must be retained. The shared script is preparation material, not a replacement for formal assignment documents.

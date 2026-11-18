@@ -29,7 +29,7 @@ Five core screens from the current Android prototype, using synthetic English ex
 | Document | Purpose | Google Docs collaboration draft (English) | English reading copy | 中文 |
 |---|---|---|---|---|
 | Proposal | Purpose, stakeholders, release scope and expected benefit (Task 1) | [Open proposal](https://docs.google.com/document/d/12U-Q6nHU0VVJLd2f1suqiXmoiz9uk8S6T-kdf8JUYJo/edit) | [English](docs/proposal.md) | [中文](docs/proposal_ZH.md) |
-| Team Charter | Members, responsibilities, communication and team rules; Task 1 | [Open team charter](https://docs.google.com/document/d/1QEtU5J5U73wCyGCwEX2-MJFN66VqZpyIB1YgSM_wJv0) | [English](docs/team-charter.md) | [中文](docs/team-charter_ZH.md) |
+| Team Charter | Members, responsibilities, communication and team rules; Task 1 | [Open team charter](https://docs.google.com/document/d/1hINq9tykmjUGoifnwC85BEKo9WYC15juCXi95lnv9Ss/edit) | [English](docs/team-charter.md) | [中文](docs/team-charter_ZH.md) |
 | Project Charter | MOV, WBS, schedule, budget, risks, quality and acceptance; Task 2 | [Open project charter](https://docs.google.com/document/d/1zFv3wvtZOBagOc8DQkFxFpXOKsy2kZrWi4drkiAovYg) | [English](docs/project-charter.md) | [中文](docs/project-charter_ZH.md) |
 | Presentation Script | Five named chapters; leader opens and concludes after ZHANG | [Open shared script](https://docs.google.com/document/d/1BMb5rx9NVIpYG9ox9SPD_6Xkid16asukJab6xNW0ylY) | [English](presentation/01_Final_Presentation_Script_EN.md) | [中文](presentation/01_Final_Presentation_Script_ZH.md) |
 | Guideline | Reading order, roles and collaboration | — | [English](GUIDELINE_EN.md) | [中文](GUIDELINE.md) |

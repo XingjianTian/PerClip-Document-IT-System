@@ -29,7 +29,7 @@ PerClip 是一个规划中的 RAG 文档管理系统，连接文档采集、整�
 | 文档 | 用途 | Google Docs 协作稿（英文） | 中文阅读版 | English |
 |---|---|---|---|---|
 | Proposal／项目提案 | 说明项目目的、利益相关者、发布范围和预期收益；Task 1 | [打开提案](https://docs.google.com/document/d/12U-Q6nHU0VVJLd2f1suqiXmoiz9uk8S6T-kdf8JUYJo/edit) | [中文](docs/proposal_ZH.md) | [English](docs/proposal.md) |
-| Team Charter／团队章程 | 说明成员、分工、沟通与团队规则；Task 1 | [打开团队章程](https://docs.google.com/document/d/1QEtU5J5U73wCyGCwEX2-MJFN66VqZpyIB1YgSM_wJv0) | [中文](docs/team-charter_ZH.md) | [English](docs/team-charter.md) |
+| Team Charter／团队章程 | 说明成员、分工、沟通与团队规则；Task 1 | [打开团队章程](https://docs.google.com/document/d/1hINq9tykmjUGoifnwC85BEKo9WYC15juCXi95lnv9Ss/edit) | [中文](docs/team-charter_ZH.md) | [English](docs/team-charter.md) |
 | Project Charter／项目章程 | 说明 MOV、WBS、进度、预算、风险、质量与验收；Task 2 | [打开项目章程](https://docs.google.com/document/d/1zFv3wvtZOBagOc8DQkFxFpXOKsy2kZrWi4drkiAovYg) | [中文](docs/project-charter_ZH.md) | [English](docs/project-charter.md) |
 | Presentation Script／统一讲稿 | 五人按姓名分章；组长开场，并在 ZHANG 后总结 | [打开统一讲稿](https://docs.google.com/document/d/1BMb5rx9NVIpYG9ox9SPD_6Xkid16asukJab6xNW0ylY) | [中文](presentation/01_Final_Presentation_Script_ZH.md) | [English](presentation/01_Final_Presentation_Script_EN.md) |
 | Guideline／上手指南 | 阅读顺序、分工和协作方法 | — | [中文](GUIDELINE.md) | [English](GUIDELINE_EN.md) |
