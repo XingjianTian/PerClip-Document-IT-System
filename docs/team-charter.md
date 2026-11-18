@@ -29,11 +29,11 @@ To align project tasks with individual strengths and identify areas for peer sup
 
 | Member | Core Skills & Domain Knowledge |
 | --- | --- |
-| **Xingjian Tian** | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
-| **Li Chunze** | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
-| **Lin Zhihua** | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
-| **Tan Shirong** | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
-| **Zhang Shuai** | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
+| **Xingjian Tian** | IT Project Integration & Governance, Agile/Scrum Coordination, Stakeholder Communications, PMBOK Process Management |
+| **Li Chunze** | Requirements Engineering, Scope Baseline Definition, User Story Mapping, Business Value & MOV Metrics Design |
+| **Lin Zhihua** | WBS & Critical Path Scheduling, Python/FastAPI Backend Development, RAG & Vector Indexing Architecture |
+| **Tan Shirong** | Cost Estimation & Budget Management, Risk Register Assessment, Resource Allocation, Operations Support Analysis |
+| **Zhang Shuai** | Software Quality Assurance, Acceptance Test Case Design (UAT), Retrieval Performance Auditing, Release Handover |
 
 *Skill Alignment Strategy:* Where specialized work—such as Android capture, self-hosted archiving, RAG passage retrieval, or cost and schedule control—is led by specific members, each domain owner works with a designated peer reviewer so the entire team understands the end-to-end system and release decisions.
 
