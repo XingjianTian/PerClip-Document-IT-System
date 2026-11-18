@@ -28,7 +28,7 @@ Five core screens from the current Android prototype, using synthetic English ex
 
 | Document | Purpose | Google Docs collaboration draft (English) | English reading copy | 中文 |
 |---|---|---|---|---|
-| Proposal | Problem, purpose, stakeholders and scope; Task 1 | [Open proposal](https://docs.google.com/document/d/1_qTX6LeHCuEHsDNjiBR0V_AFXNi4oFOH3kq5Kty4Glc) | [English](docs/proposal.md) | [中文](docs/proposal_ZH.md) |
+| Proposal | Department pilot, scope, release authority and criteria for expansion (Task 1) | [Open proposal](https://docs.google.com/document/d/12U-Q6nHU0VVJLd2f1suqiXmoiz9uk8S6T-kdf8JUYJo/edit) | [English](docs/proposal.md) | [中文](docs/proposal_ZH.md) |
 | Team Charter | Members, responsibilities, communication and team rules; Task 1 | [Open team charter](https://docs.google.com/document/d/1QEtU5J5U73wCyGCwEX2-MJFN66VqZpyIB1YgSM_wJv0) | [English](docs/team-charter.md) | [中文](docs/team-charter_ZH.md) |
 | Project Charter | MOV, WBS, schedule, budget, risks, quality and acceptance; Task 2 | [Open project charter](https://docs.google.com/document/d/1zFv3wvtZOBagOc8DQkFxFpXOKsy2kZrWi4drkiAovYg) | [English](docs/project-charter.md) | [中文](docs/project-charter_ZH.md) |
 | Presentation Script | Five named chapters; leader opens and concludes after ZHANG | [Open shared script](https://docs.google.com/document/d/1BMb5rx9NVIpYG9ox9SPD_6Xkid16asukJab6xNW0ylY) | [English](presentation/01_Final_Presentation_Script_EN.md) | [中文](presentation/01_Final_Presentation_Script_ZH.md) |
@@ -42,7 +42,7 @@ Google Docs retain the English collaboration drafts; Chinese copies support unde
 
 ## Current status
 
-The three formal documents and script are planning drafts pending member review. Matriculation numbers, contacts, actual skills, meeting arrangements and signatures remain blank. Features, MOV, 90 person-hours and MYR 2,585 are plans or estimates, not completed implementation or expenditure.
+The three formal documents and script are planning drafts pending member review. The Proposal cover in Google Docs lists all five matriculation numbers. The course planning estimate is 90 person-hours and MYR 2,585.
 
 Task 1 is dated 20 November 2026, Task 2 8 December and Presentation 10 December. The platform's Task 1 00:00 cutoff conflicts with the attachment's 23:59; the internal readiness target is 19 November at 18:00 MYT. Presentation mode, duration and submission format remain unconfirmed; a composite video is not yet approved by the lecturer.
 

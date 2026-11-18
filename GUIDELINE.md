@@ -16,7 +16,7 @@ UECS6013 · Group 2 · 更新：2026-11-13
 
 | 文档 | 用途 | 对应任务 |
 |---|---|---|
-| [Proposal-PerClip RAG Document Management System](https://docs.google.com/document/d/1_qTX6LeHCuEHsDNjiBR0V_AFXNi4oFOH3kq5Kty4Glc) | 说明问题、项目目的、利益相关者与范围 | Task 1，连同 Team Charter 共 15% |
+| [Proposal-PerClip RAG Document Management System](https://docs.google.com/document/d/12U-Q6nHU0VVJLd2f1suqiXmoiz9uk8S6T-kdf8JUYJo/edit) | 说明问题、项目目的、利益相关者与范围 | Task 1，连同 Team Charter 共 15% |
 | [Team Charter-PerClip RAG Document Management System](https://docs.google.com/document/d/1QEtU5J5U73wCyGCwEX2-MJFN66VqZpyIB1YgSM_wJv0) | 说明成员、职责、技能、会议、沟通与团队规则 | Task 1 |
 | [Project Charter-PerClip RAG Document Management System](https://docs.google.com/document/d/1zFv3wvtZOBagOc8DQkFxFpXOKsy2kZrWi4drkiAovYg) | 说明 MOV、范围、排期、预算、质量、资源、风险、管理与验收批准 | Task 2，30% |
 
@@ -41,7 +41,7 @@ UECS6013 · Group 2 · 更新：2026-11-13
 ## 4. 每个人现在要做什么
 
 1. 在统一讲稿中阅读自己的姓名章节，再通读三份正式文档，了解项目整体逻辑。
-2. 核对本人姓名；学号、联系方式、真实技能、可开会时间目前留空，由本人提供或填写。会议地点、平台、团队承诺也需实际确认。
+2. 核对本人姓名；在 Proposal 封面核对学号，在 Team Charter 中核对联系方式、技能和可开会时间。会议地点、平台、团队承诺也需实际确认。
 3. 检查自己负责的内容：是否说得清、数字是否一致、范围是否可行。需要调整时在正式 Google Docs 中提出具体评论，写清修改理由和影响。
 4. 修改内容后，同步检查统一讲稿中自己的段落；涉及预算、MOV、范围或日期时通知其他相关负责人一起核对。Google Docs 与 GitHub 不会自动同步，组长整合确认后更新仓库版本。
 5. 用自己的话复述负责内容，再用英文稿排练；准备解释“为什么这样定”，不能只会念稿。每人至少准备两个自己部分可能被问到的问题，并阅读[问答草稿](presentation/04_Typical_QA_ZH.md)。

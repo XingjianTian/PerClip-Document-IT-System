@@ -2,44 +2,95 @@
 
 English | [简体中文](proposal_ZH.md)
 
-PerClip RAG Document Management System | Document Management System | Group 2 | UECS6013
+## 1. PROJECT OVERVIEW
 
-## Includes general overview of the project. What are the problems related with current business process (problem statement)? Describe the possible stakeholders.
+PerClip RAG Document Management System is preparing for its first departmental release. The Document Management System will let staff file notes, links and PDFs from Android, keep the originals on departmental storage and ask questions with links to the source passages.
 
-PerClip RAG Document Management System is our proposed RAG document management system for Android and self-hosted storage. It falls under the Document Management System title in Appendix A. The project will connect mobile document capture, secure archiving, organisation and retrieval through an English-language application.
+A staff member who needs the policy behind a decision may have to search a team chat, a downloads folder and several PDFs before finding the right passage. A pilot in one department will test whether PerClip shortens that search enough to justify training, hosting and support.
 
-Useful documents, links and notes are often scattered across mobile applications and folders. Users may struggle to identify where information was saved, whether it was processed successfully and how to retrieve it later. Our project will address these workflow problems through a single capture-to-retrieval experience. These needs are initial project hypotheses to be validated, not results of a completed user study.
+The pilot depends on four groups with different responsibilities.
 
-Primary stakeholders are individual document users, our five-member project team, a self-hosted service administrator and the lecturer as academic reviewer. The proposed system will retain source information, document status and readable details. Planned retrieval-augmented generation (RAG) will support document-grounded questions and source-linked answers; core document saving and title-based retrieval will remain usable without the RAG service.
+- Department staff: Choose representative documents, time the same lookup in folders and in PerClip, and report where they still need help.
+- IT operations: Manage access, backups and service recovery. The administrator takes ownership of the support queue at handover.
+- Project team (Group 2): Agree the pilot scope with users, estimate the work and bring test results, costs and open issues to the release review.
+- Sponsor and academic reviewer: The department sponsor would authorise the pilot and decide whether to expand it. Dr. Nabil Hasan Saleh reviews the group’s project management work for UECS6013.
 
-## List purpose of the project.
+For the pilot release decision, the sponsor is accountable, the project lead is responsible for the recommendation, IT operations is consulted and pilot users are informed. This applies the RACI roles from Topic 2 to a decision the team will face at launch.
 
-The purpose is to plan a practical English-language document management system that helps users capture information on Android, retain it in user-controlled storage and find it again. The project will define user needs, scope, responsibilities, schedule, resources, budget, risks and acceptance criteria.
+### 1.1 Purpose of the Project
 
-The proposed application will provide capture, document browsing, title search, detail views, essential settings, and RAG-based questions with source references. RAG retrieval and source-linked answer generation will be described with clear service, cost and privacy boundaries. Prototype screens may illustrate the intended experience; functional completion and measured benefits will be reported only after verification.
+The project will give the sponsor a basis for deciding whether to extend PerClip beyond one department. The team will compare retrieval times, estimate the cost of supporting another group and review what prevents staff from using the service in their daily work.
 
-## Outlines the boundary of the project.
+Five work packages connect the release plan to that decision.
 
-In scope: the target document workflow; five synthetic use cases; an English application specification; team and project charters; a WBS, schedule, estimated budget and risk register; quality and acceptance planning; and a presentation involving all five members. Selected prototype screens are planned as supporting illustrations.
+1. Scope and requirements: Agree which records staff will capture and which questions they need to answer. Link each requirement to an acceptance check.
+2. Schedule and dependencies: Use a work breakdown structure (WBS) to sequence archive checks, retrieval tests, staff onboarding and the pilot review.
+3. Cost and change control: Record requests such as adding another department. Estimate the extra support hours, cost and delay before the sponsor decides.
+4. Quality and operational risk: Check the passage behind each test answer. If evidence is missing, show that to the user. Keep title search available during an indexing outage.
+5. Adoption and handover: Give pilot staff a short walkthrough using their own work tasks. Assign a support contact and review recurring problems with IT operations.
 
-Out of scope: iOS, enterprise multi-tenancy and permissions, regulatory certification, production deployment, private-document testing and guaranteed semantic question-answering quality. The proposed architecture separates the authoritative archive from RAG indexing, so core capture and retrieval do not depend on an AI service.
+### 1.2 Scope
 
-The course delivery period is 13 November to 10 December 2026. Proposal and Team Charter are due on 20 November, Project Charter on 8 December, and the presentation on 10 December. Our internal Task 1 readiness target is 19 November at 18:00 MYT. Moodle shows 20 November at 00:00; the attachment instead states 23:59 that day, requiring clarification.
+#### In Scope
 
-## List all references used.  Eg. books, url, etc (Use APA styles)
+- Pilot release: One department, an Android client and a self-hosted archive. Staff can capture a record, check its status, search by title and open the source behind a RAG answer.
+- Management plan: Set the scope, schedule and cost baselines. At each review the lead records decisions, assigns an owner to each open risk and tracks approved changes against the baselines.
+- Release gates: Following Topic 3, IT operations reviews five acceptance checks before admitting users. At day 30 the sponsor reviews retrieval times, incidents and support costs, then decides whether to expand, extend or stop the pilot.
+
+#### Out of Scope
+
+- Native iOS development and commercial billing.
+- Cross-department rollout, single sign-on and multi-tenant hosting.
+- Migration of live departmental archives and formal regulatory certification.
+- Purchasing production infrastructure. The pilot review will establish demand and capacity for a wider rollout.
+
+#### Project Timeline & Milestones
+
+The course planning period is 13 November to 10 December 2026 (Malaysia time, UTC+8). The proposed 30-day pilot starts after departmental authorisation.
+
+- 19 November 2026 (18:00 MYT): Review the proposal and Team Charter with the group.
+- 20 November 2026: Submit the Proposal and Team Charter. Agree the requirements, MOV and WBS baseline by 27 November.
+- 8 December 2026: Submit the Project Charter following the 7 December review of scope, cost, risks and acceptance criteria.
+- 10 December 2026: Present the release recommendation and the decisions the sponsor will face after the pilot.
+
+## 2. REFERENCES
 
 Saleh, N. H. (2026, November 3). Project requirements [UECS6013 assignment handout]. Universiti Teknologi Malaysia. https://elearning.utm.my/26271/mod/assign/view.php?id=197110
 
-Universiti Teknologi Malaysia. (n.d.). Proposal template 1; Team charter template 2; Project charter template 3 [Course templates]. UECS6013.
+Universiti Teknologi Malaysia. (2026). The project management team and Principles of project management [UECS6013 lecture slides, Topics 2–3]. Faculty of Computing.
 
-## Include ALL appendixes.
+## 3. APPENDIX
 
-Appendix A — Proposed workflow. An Android user captures a text note, link or file, reviews its title and submits it to the document service. The service archives the original item and metadata, records processing status and returns an identifiable receipt. The user browses documents, searches title keywords and opens a detail view containing content and source information.
+### Appendix A — End-to-End System Workflow
 
-Appendix B — Proposed acceptance scenarios. Test five fictional scenarios: save a note; share a link; attach a file; find a record by title; and inspect its content and source. Check English labels across agreed screens, readable layouts and clear failure states. Verify that unavailable RAG services do not block core saving and retrieval. Results remain pending.
+1. Capture: A staff member shares a policy PDF or link from Android. A receipt identifies the record and shows whether the archive has received it.
+2. Archive & Index: Departmental storage holds the original and its source details. A separate worker indexes the text. If indexing stalls, IT operations can retry the queue while staff continue filing and searching by title.
+3. Retrieve & Query: Staff locate a record by title or ask a question and open the cited passage. A missing citation or incorrect answer goes into the pilot issue log for review.
 
-Appendix C — Proposed MOV. In a future pilot with five consenting participants, aim for at least four to locate a specified document within 60 seconds without assistance. Use a fixed fictional document collection, record the target title, timing, success and errors, and record a manual baseline before comparison. This is a proposed target, not an observed improvement.
+### Appendix B — Functional Acceptance Scenarios
 
-Appendix D — Presentation. Each member will own and review a contribution. XINGJIAN opens, introduces stakeholders and team management, then returns to conclude after CHUN (requirements/scope/MOV), LIN (WBS/schedule), TAN (budget/resources/risks) and ZHANG (quality/acceptance/closure planning). A composite recording remains subject to lecturer acceptance. Duration and recording format are unspecified; all members prepare for questions and submit written documents separately.
+The quality lead will record the input, expected result and outcome for each check before recommending pilot access.
 
-Appendix E — Planning estimate. The planning envelope for the course documents and presentation is 90 person-hours, or 18 hours per member. Illustrative shadow labour at MYR 25 per hour is MYR 2,250; an optional service allowance of MYR 100 and 10% contingency of MYR 235 give MYR 2,585. Full software implementation would require a separate estimate.
+1. Note Capture: Save a plain-text note and verify receipt generation and readable storage.
+2. Link Archiving: Share a web URL and confirm preservation of both the link and page title.
+3. File Attachment: Upload a sample document and verify lossless retrieval of the original file.
+4. Title and source lookup: Find a target policy by title, ask a question about it and check that the cited passage supports the answer.
+5. Graceful Degradation: Simulate RAG service unavailability and verify that core saving, browsing, and title search continue uninterrupted with clear status indicators.
+
+### Appendix C — Measurable Organizational Value (MOV) Target
+
+During the first 30 days, five pilot users will each find a policy in folders and then a comparable policy in PerClip. The measurable organisational value (MOV) target is for at least four to find the right document unaided within 60 seconds in PerClip. Record times, errors and requests for help. If the target is missed, interview users and retest before inviting another department.
+
+### Appendix D — Group Presentation Plan
+
+Each member will explain one decision in the release plan. The team leader opens and returns after the quality review to give the group’s recommendation.
+
+1. Xingjian Tian (Team Leader): Introduce the department’s problem and the sponsor’s decision. Close with the proposed release conditions.
+2. Li Chunze: Define pilot scope, user requirements and the retrieval-time target.
+3. Lin Zhihua: Show which WBS tasks must finish before staff can join the pilot.
+4. Tan Shirong: Explain the cost baseline, how a change affects it and who owns the main risks.
+5. Zhang Shuai: Present the acceptance checks and handover to IT operations, then return to the team leader.
+
+### Appendix E — Resource & Budget Estimate
+
+The course planning estimate covers 90 person-hours (18 per member). At MYR 25 per hour, labour is valued at MYR 2,250. A MYR 100 testing allowance and a 10% contingency of MYR 235 bring the estimate to MYR 2,585. During the pilot, IT operations will track hosting, model use and support hours so the sponsor can price the next department.

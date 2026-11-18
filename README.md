@@ -28,7 +28,7 @@ PerClip 是一个规划中的 RAG 文档管理系统，连接文档采集、整�
 
 | 文档 | 用途 | Google Docs 协作稿（英文） | 中文阅读版 | English |
 |---|---|---|---|---|
-| Proposal／项目提案 | 说明问题、目的、利益相关者和范围；Task 1 | [打开提案](https://docs.google.com/document/d/1_qTX6LeHCuEHsDNjiBR0V_AFXNi4oFOH3kq5Kty4Glc) | [中文](docs/proposal_ZH.md) | [English](docs/proposal.md) |
+| Proposal／项目提案 | 说明部门试点的目的、范围、审批责任和扩大使用的条件；Task 1 | [打开提案](https://docs.google.com/document/d/12U-Q6nHU0VVJLd2f1suqiXmoiz9uk8S6T-kdf8JUYJo/edit) | [中文](docs/proposal_ZH.md) | [English](docs/proposal.md) |
 | Team Charter／团队章程 | 说明成员、分工、沟通与团队规则；Task 1 | [打开团队章程](https://docs.google.com/document/d/1QEtU5J5U73wCyGCwEX2-MJFN66VqZpyIB1YgSM_wJv0) | [中文](docs/team-charter_ZH.md) | [English](docs/team-charter.md) |
 | Project Charter／项目章程 | 说明 MOV、WBS、进度、预算、风险、质量与验收；Task 2 | [打开项目章程](https://docs.google.com/document/d/1zFv3wvtZOBagOc8DQkFxFpXOKsy2kZrWi4drkiAovYg) | [中文](docs/project-charter_ZH.md) | [English](docs/project-charter.md) |
 | Presentation Script／统一讲稿 | 五人按姓名分章；组长开场，并在 ZHANG 后总结 | [打开统一讲稿](https://docs.google.com/document/d/1BMb5rx9NVIpYG9ox9SPD_6Xkid16asukJab6xNW0ylY) | [中文](presentation/01_Final_Presentation_Script_ZH.md) | [English](presentation/01_Final_Presentation_Script_EN.md) |
@@ -42,7 +42,7 @@ Google Docs 保留英文协作稿，中文用于对照理解。讲稿只有一�
 
 ## 当前状态
 
-三份正式文档和讲稿均为待组员确认的规划草稿。学号、联系方式、真实技能、会议安排及签名留白；功能、MOV、90 人时和 MYR 2,585 均为计划或估算，未表示系统已完成或费用已支出。
+三份正式文档和讲稿均为待组员确认的规划草稿。Proposal 协作稿的封面已列出五人的学号。课程规划的工作量估算为 90 人时，预算估算为 MYR 2,585。
 
 Task 1 日期为 2026-11-20，Task 2 为 2026-12-08，Presentation 为 2026-12-10。Task 1 的平台 00:00 与附件 23:59 存在冲突；内部准备目标为 11月19日18:00 MYT。展示形式、时长及提交格式仍待确认，不能把合成视频视为老师已批准。
 

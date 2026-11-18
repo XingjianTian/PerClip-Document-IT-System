@@ -16,7 +16,7 @@ These materials are project planning drafts. Goals, features, effort, budgets an
 
 | Document | Purpose | Assessment task |
 |---|---|---|
-| [Proposal-PerClip RAG Document Management System](https://docs.google.com/document/d/1_qTX6LeHCuEHsDNjiBR0V_AFXNi4oFOH3kq5Kty4Glc) | Problem, project purpose, stakeholders and scope | Task 1, together with Team Charter: 15% |
+| [Proposal-PerClip RAG Document Management System](https://docs.google.com/document/d/12U-Q6nHU0VVJLd2f1suqiXmoiz9uk8S6T-kdf8JUYJo/edit) | Problem, project purpose, stakeholders and scope | Task 1, together with Team Charter: 15% |
 | [Team Charter-PerClip RAG Document Management System](https://docs.google.com/document/d/1QEtU5J5U73wCyGCwEX2-MJFN66VqZpyIB1YgSM_wJv0) | Members, responsibilities, skills, meetings, communication and team rules | Task 1 |
 | [Project Charter-PerClip RAG Document Management System](https://docs.google.com/document/d/1zFv3wvtZOBagOc8DQkFxFpXOKsy2kZrWi4drkiAovYg) | MOV, scope, schedule, budget, quality, resources, risks, administration, acceptance and approval | Task 2: 30% |
 
@@ -41,7 +41,7 @@ Documents are held under school accounts. A link does not grant access. If acces
 ## 4. What each member should do now
 
 1. Read your named chapter in the shared script, then all three formal documents to understand the overall project logic.
-2. Check your name. Matriculation numbers, contacts, actual skills and meeting availability are blank for each member to provide. Meeting venue, platform and team commitments also need actual confirmation.
+2. Check your name and matriculation number on the Proposal cover. In the Team Charter, verify your contact details, skills and availability. Meeting venue, platform and team commitments also need actual confirmation.
 3. Check your assigned content for clarity, consistent numbers and feasible scope. Suggest specific comments in the formal Google Docs, explaining reasons and impacts.
 4. After changes, check your script section too. Notify other relevant owners when budget, MOV, scope or dates change. Google Docs and GitHub do not sync automatically; the leader updates repository versions after integrating and confirming revisions.
 5. Explain your section in your own words, then rehearse the English script. Prepare to explain why decisions were made, rather than only reading aloud. Prepare at least two likely questions about your section and read the [Q&A draft](presentation/04_Typical_QA_EN.md).
