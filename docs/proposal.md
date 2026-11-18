@@ -4,19 +4,19 @@ English | [简体中文](proposal_ZH.md)
 
 ## 1. Project overview
 
-Staff collect PDFs, links and notes on their phones throughout the workday. When they need a document again, they may have to search several apps and folders. PerClip will bring those records into a self-hosted archive. Its Android app will support title search and use retrieval-augmented generation (RAG) to answer questions from retrieved passages (Lewis et al., 2020). Staff can open the cited passage to check an answer.
+Staff collect PDFs, links, and notes on their phones throughout the workday, leaving important records scattered across apps and folders. When they need a document again, finding it takes unnecessary time. PerClip addresses this by bringing saved items into a single self-hosted archive. Its Android app supports title search and uses retrieval-augmented generation (RAG) to answer questions from retrieved passages (Lewis et al., 2020), allowing users to open each cited passage and verify the source directly.
 
-Staff will help define retrieval tasks. Group 2 will plan the release with the system administrator, who will manage access, backups and support. The sponsor will review the expected benefit and cost before authorising wider use.
+As an organizational IT system, PerClip involves four main stakeholder groups: end users, the development team, IT operations, and the project sponsor. Department staff and knowledge workers use the app to save and retrieve daily records, help define realistic search tasks, and report usability issues. The project manager and development team build and test the Android client, archive service, and RAG pipeline. IT operations and system administrators take over hosting, access control, backups, and routine support after launch, while the project sponsor and management provide resources and decide whether to expand deployment across the organization.
 
 ### 1.1 Purpose of the project
 
-The project aims to reduce the time staff spend finding documents. The proposed measure of success is for at least four of five users to find a specified document unaided within 60 seconds. The team will time comparable searches in folders and in PerClip. Following the value and measurement principles in the PMBOK Guide (Project Management Institute, 2021), the sponsor will review these results alongside support costs and user feedback.
+The project aims to reduce the time staff spend finding documents and provide a clear basis for wider adoption. Its target is for at least four out of five users to locate a specified document unaided within 60 seconds. The development team will assess this by comparing search times in PerClip against standard folder lookups on the same tasks. Following the value delivery and measurement principles in the PMBOK Guide (Project Management Institute, 2021), the sponsor will evaluate these retrieval times alongside user feedback and ongoing support costs before authorizing broader rollout.
 
 ### 1.2 Scope
 
-**In scope.** The release plan covers Android capture, document archiving, title search and answers with source links. It also covers staff onboarding and handover to IT operations. Before release, the team will check that staff can still save and find documents when the RAG service is unavailable.
+**In scope.** The initial release covers Android document capture, self-hosted archiving, title search, and RAG question answering with source links, together with user onboarding and handover to IT operations. Before launch, the development team and system administrator will verify that users can still save and find documents by title when the RAG service is unavailable.
 
-**Out of scope.** The first release excludes iOS, multi-tenant hosting and migration of live institutional archives.
+**Out of scope.** The first release excludes an iOS client, multi-tenant cloud hosting, and automated migration of existing third-party archives.
 
 ## 2. References
 
