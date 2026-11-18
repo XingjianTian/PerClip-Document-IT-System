@@ -110,7 +110,7 @@ PerClip 文档管理团队由五名成员组成，分别负责项目管理、系
 
 | 角色 | 姓名 | 签名 | 日期 |
 | --- | --- | --- | --- |
-| Team Leader | Xingjian Tian | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
+| Team Leader | Xingjian Tian | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | 18/11/2026 |
 | Member | Li Chunze | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
 | Member | Lin Zhihua | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
 | Member | Tan Shirong | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
@@ -121,20 +121,3 @@ PerClip 文档管理团队由五名成员组成，分别负责项目管理、系
 Lewis, P., Perez, E., Piktus, A., Petroni, F., Karpukhin, V., Goyal, N., Küttler, H., Lewis, M., Yih, W.-t., Rocktäschel, T., Riedel, S., & Kiela, D. (2020). [Retrieval-augmented generation for knowledge-intensive NLP tasks](https://proceedings.neurips.cc/paper/2020/hash/6b493230-Abstract.html). *Advances in Neural Information Processing Systems, 33*, 9459–9474.
 
 Project Management Institute. (2021). [*A guide to the project management body of knowledge (PMBOK Guide) and the standard for project management*](https://www.pmi.org/es-es/brasil/sitecore/content/home/standards/pmbok) (7th ed.).
-
-## 附录
-
-### Appendix A — 发布前核验与移交检查表
-
-在将 PerClip 首次发布正式移交 IT 运维与项目发起人前：
-
-- [ ] Android 端文档采集、自托管归档、标题搜索及带来源链接的 RAG 问答通过端到端功能核验（Zhang Shuai & Lin Zhihua）。
-- [ ] 与系统管理员共同完成的降级核验确认：当 RAG 服务不可用时，用户仍可保存文档并按标题检索（Zhang Shuai & Lin Zhihua）。
-- [ ] 完成与文件夹查找的对比检索用时测试（目标：五名用户中至少四人在 60 秒内独立找到指定文档）（Li Chunze & Zhang Shuai）。
-- [ ] 将用户入门材料、访问控制、备份规程及支持职责移交至 IT 运维（Xingjian Tian & Tan Shirong）。
-- [ ] 汇总检索用时、用户反馈与后续支持成本估算，供项目发起人开展扩推评审（Xingjian Tian、Li Chunze & Tan Shirong）。
-
-### Appendix B — 展示发言顺序与分工
-
-- **发言顺序：** Xingjian Tian（开场、利益相关者与团队治理）→ Li Chunze（问题、范围与 60 秒检索目标）→ Lin Zhihua（系统架构、WBS 与进度计划）→ Tan Shirong（预算、支持成本与风险）→ Zhang Shuai（质量、中断降级核验与移交）→ Xingjian Tian（总结陈词）。
-- **全员参与及评审：** 每位成员陈述各自负责的领域，并在评审环节回答利益相关者及技术问题。

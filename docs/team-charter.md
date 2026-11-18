@@ -108,7 +108,7 @@ By signing below, each member confirms that they have reviewed and agreed to the
 
 | Role | Name | Signature | Date |
 | --- | --- | --- | --- |
-| Team Leader | Xingjian Tian | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
+| Team Leader | Xingjian Tian | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | 18/11/2026 |
 | Member | Li Chunze | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
 | Member | Lin Zhihua | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
 | Member | Tan Shirong | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
@@ -119,20 +119,3 @@ By signing below, each member confirms that they have reviewed and agreed to the
 Lewis, P., Perez, E., Piktus, A., Petroni, F., Karpukhin, V., Goyal, N., Küttler, H., Lewis, M., Yih, W.-t., Rocktäschel, T., Riedel, S., & Kiela, D. (2020). [Retrieval-augmented generation for knowledge-intensive NLP tasks](https://proceedings.neurips.cc/paper/2020/hash/6b493230-Abstract.html). *Advances in Neural Information Processing Systems, 33*, 9459–9474.
 
 Project Management Institute. (2021). [*A guide to the project management body of knowledge (PMBOK Guide) and the standard for project management*](https://www.pmi.org/es-es/brasil/sitecore/content/home/standards/pmbok) (7th ed.).
-
-## Appendix
-
-### Appendix A — Pre-Release Verification & Handover Checklist
-
-Before handing the initial PerClip release over to IT operations and the project sponsor:
-
-- [ ] Android document capture, self-hosted archiving, title search, and source-linked RAG answers pass end-to-end functional checks (Zhang Shuai & Lin Zhihua).
-- [ ] Fallback verification with the system administrator confirms users can still save and find documents by title when the RAG service is unavailable (Zhang Shuai & Lin Zhihua).
-- [ ] Comparative search timing tests (target: at least four of five users finding a specified document unaided within 60 seconds) are completed against folder lookups (Li Chunze & Zhang Shuai).
-- [ ] User onboarding materials, access control, backup procedures, and support responsibilities are handed over to IT operations (Xingjian Tian & Tan Shirong).
-- [ ] Retrieval timings, user feedback, and ongoing support cost estimates are compiled for the project sponsor's rollout review (Xingjian Tian, Li Chunze & Tan Shirong).
-
-### Appendix B — Presentation Speaking Order & Allocation
-
-- **Speaking Sequence:** Xingjian Tian (Opening, Stakeholders & Team Governance) → Li Chunze (Problem, Scope & 60-Second Retrieval Target) → Lin Zhihua (Architecture, WBS & Schedule) → Tan Shirong (Budget, Support Costs & Risks) → Zhang Shuai (Quality, Outage Fallback Verification & Handover) → Xingjian Tian (Closing Summary).
-- **Participation & Review:** Every member presents their assigned domain and addresses stakeholder and technical questions during the review session.
