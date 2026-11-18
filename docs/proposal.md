@@ -10,16 +10,24 @@ As an organizational IT system, PerClip involves four main stakeholder groups: e
 
 ### 1.1 Purpose of the project
 
-The project aims to reduce the time staff spend finding documents and provide a clear basis for wider adoption. Its target is for at least four out of five users to locate a specified document unaided within 60 seconds. The development team will assess this by comparing search times in PerClip against standard folder lookups on the same tasks. Following the value delivery and measurement principles in the PMBOK Guide (Project Management Institute, 2021), the sponsor will evaluate these retrieval times alongside user feedback and ongoing support costs before authorizing broader rollout.
+The project aims to reduce the time staff spend searching across scattered mobile apps and folders, while giving management a clear, evidence-based foundation for wider organizational adoption. Its primary target is for at least four out of five users to locate a specified document unaided within 60 seconds. To evaluate this, the development team will compare search times in PerClip against standard folder lookups on representative daily tasks. Following the value delivery and measurement principles in the PMBOK Guide (Project Management Institute, 2021), the project sponsor will review these retrieval timings alongside user feedback, onboarding effort, and ongoing support costs before authorizing broader rollout.
 
 ### 1.2 Scope
 
-**In scope.** The initial release covers Android document capture, self-hosted archiving, title search, and RAG question answering with source links, together with user onboarding and handover to IT operations. Before launch, the development team and system administrator will verify that users can still save and find documents by title when the RAG service is unavailable.
+**In scope.** The initial release covers end-to-end Android document capture (PDFs, web links, and text notes), self-hosted archiving, title search, and RAG question answering with direct source links. It also includes user onboarding materials, access control setup, backup procedures, and operational handover to IT operations. Before launch, the development team and system administrator will verify that users can still save and find documents by title when the RAG service is unavailable.
 
-**Out of scope.** The first release excludes an iOS client, multi-tenant cloud hosting, and automated migration of existing third-party archives.
+**Out of scope.** The first release excludes an iOS client, multi-tenant cloud hosting, enterprise-wide single sign-on integration, and automated migration of existing third-party archives.
 
 ## 2. References
 
 Lewis, P., Perez, E., Piktus, A., Petroni, F., Karpukhin, V., Goyal, N., Küttler, H., Lewis, M., Yih, W.-t., Rocktäschel, T., Riedel, S., & Kiela, D. (2020). [Retrieval-augmented generation for knowledge-intensive NLP tasks](https://proceedings.neurips.cc/paper/2020/hash/6b493230-Abstract.html). *Advances in Neural Information Processing Systems, 33*, 9459–9474.
 
 Project Management Institute. (2021). [*A guide to the project management body of knowledge (PMBOK Guide) and the standard for project management*](https://www.pmi.org/es-es/brasil/sitecore/content/home/standards/pmbok) (7th ed.).
+
+## 3. Appendix
+
+### Appendix A — Core Workflow and Pre-Release Verification
+
+1. **Capture & Archive:** Staff submit a PDF, web link, or text note from the Android client; the self-hosted service stores the original item and returns an identifiable receipt.
+2. **Search & Verify:** Users locate records by title or ask a natural-language question via RAG, then open the cited source passage directly to verify the answer.
+3. **Graceful Degradation:** Prior to release, the development team and system administrator confirm that core saving and title search remain operational even if the RAG service is offline.

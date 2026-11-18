@@ -10,16 +10,24 @@
 
 ### 1.1 项目目的
 
-本项目旨在缩短员工查找文档的时间，并为管理层评估是否扩大部署提供明确依据。项目的拟定目标是：五名用户中至少有四人能在无人协助的情况下，于 60 秒内找到指定文档。开发团队将通过对比同一查找任务在普通文件夹与 PerClip 中的完成用时来评估这一指标。依据《PMBOK 指南》关于价值交付与度量衡量的原则（Project Management Institute, 2021），发起人将在批准扩大推广前，综合检索用时、用户反馈以及后续运维支持成本作出决策。
+本项目旨在减少员工在零散移动应用与文件夹之间反复查找文档的时间，并为管理层评估是否扩大组织内部部署提供清晰、循证的决策依据。项目的核心目标是：五名用户中至少有四人能在无人协助的情况下，于 60 秒内找到指定文档。开发团队将通过对比同一日常查找任务在普通文件夹与 PerClip 中的完成用时来评估这一指标。依据《PMBOK 指南》关于价值交付与度量衡量的原则（Project Management Institute, 2021），项目发起人将在批准扩大推广前，综合检索用时、用户反馈、入门培训投入以及后续运维支持成本作出决策。
 
 ### 1.2 项目范围
 
-**范围内。** 首次发布涵盖 Android 端资料采集、自托管归档、标题搜索、带来源链接的 RAG 问答，以及用户入门指导和向 IT 运维的移交。正式上线前，开发团队与系统管理员将共同核验：当 RAG 服务不可用时，用户仍能正常保存文档并按标题检索。
+**范围内。** 首次发布涵盖端到端 Android 端资料采集（PDF、网页链接与文本笔记）、自托管归档、标题搜索，以及带直接来源链接的 RAG 问答；同时包含用户入门材料、访问控制配置、备份规程以及向 IT 运维的运行移交。正式上线前，开发团队与系统管理员将共同核验：当 RAG 服务不可用时，用户仍能正常保存文档并按标题检索。
 
-**范围外。** 首次发布不包括 iOS 客户端、多租户云托管，以及现有第三方档案库的自动迁移。
+**范围外。** 首次发布不包括 iOS 客户端、多租户云托管、企业级单点登录集成，以及现有第三方档案库的自动迁移。
 
 ## 2. 参考文献
 
 Lewis, P., Perez, E., Piktus, A., Petroni, F., Karpukhin, V., Goyal, N., Küttler, H., Lewis, M., Yih, W.-t., Rocktäschel, T., Riedel, S., & Kiela, D. (2020). [Retrieval-augmented generation for knowledge-intensive NLP tasks](https://proceedings.neurips.cc/paper/2020/hash/6b493230-Abstract.html). *Advances in Neural Information Processing Systems, 33*, 9459–9474.
 
 Project Management Institute. (2021). [*A guide to the project management body of knowledge (PMBOK Guide) and the standard for project management*](https://www.pmi.org/es-es/brasil/sitecore/content/home/standards/pmbok) (7th ed.).
+
+## 3. 附录
+
+### Appendix A — 核心工作流与上线前核验
+
+1. **采集与归档：** 员工通过 Android 客户端提交 PDF、网页链接或文本笔记；自托管服务保存原始文件并返回可识别的入库回执。
+2. **检索与核验：** 用户按标题查找记录或通过 RAG 提出自然语言问题，随后直接打开引用的原文段落核对答案。
+3. **优雅降级：** 正式发布前，开发团队与系统管理员共同确认：即使 RAG 服务离线，核心的文档保存与标题搜索功能仍可正常运行。
