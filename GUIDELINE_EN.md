@@ -2,7 +2,7 @@
 
 English | [简体中文](GUIDELINE.md)
 
-UECS6013 · Group 2 · Updated: 2026-11-13
+UECS6013 · Group 2 · Updated: 2026-11-19
 
 Read this page first, then open the shared Google Docs script and find your named section. You do not need a development environment or a running system to review documents and prepare the presentation. GitHub supports reading and version storage; Google Docs supports collaborative editing.
 
@@ -16,11 +16,11 @@ These materials are project planning drafts. Goals, features, effort, budgets an
 
 | Document | Purpose | Assessment task |
 |---|---|---|
-| [Proposal-PerClip RAG Document Management System](https://docs.google.com/document/d/12U-Q6nHU0VVJLd2f1suqiXmoiz9uk8S6T-kdf8JUYJo/edit) | Problem, project purpose, stakeholders and scope | Task 1, together with Team Charter: 15% |
-| [Team Charter-PerClip RAG Document Management System](https://docs.google.com/document/d/1hINq9tykmjUGoifnwC85BEKo9WYC15juCXi95lnv9Ss/edit) | Members, responsibilities, skills, meetings, communication and team rules | Task 1 |
+| [Proposal · Submitted PDF](https://drive.google.com/file/d/1fm1WBSPhLLafTN_RbCBPgy1yNBlcU6VL/view) | Problem, project purpose, stakeholders and scope | Task 1, together with Team Charter: 15% |
+| [Team Charter · Submitted PDF](https://drive.google.com/file/d/1eqp8GxwcAZ9jd74XtaGRoVAQ9xlWkyWu/view) | Members, responsibilities, skills, meetings, communication and team rules | Task 1 |
 | [Project Charter-PerClip RAG Document Management System](https://docs.google.com/document/d/1zFv3wvtZOBagOc8DQkFxFpXOKsy2kZrWi4drkiAovYg) | MOV, scope, schedule, budget, quality, resources, risks, administration, acceptance and approval | Task 2: 30% |
 
-Markdown references: [Proposal](docs/proposal.md), [Team Charter](docs/team-charter.md), [Project Charter](docs/project-charter.md). All three serve distinct purposes and must be retained. The shared script is preparation material, not a replacement for formal assignment documents.
+Use the submitted PDFs above for Task 1. They require access to the files in the school Google Drive. An [English reading copy](docs/project-charter.md) is available for Task 2. The shared script is preparation material, not a replacement for formal assignment documents.
 
 ## 3. Find your role and script
 
@@ -41,7 +41,7 @@ Documents are held under school accounts. A link does not grant access. If acces
 ## 4. What each member should do now
 
 1. Read your named chapter in the shared script, then all three formal documents to understand the overall project logic.
-2. Check your name and matriculation number on the Proposal cover. In the Team Charter, verify your contact details, skills and availability. Meeting venue, platform and team commitments also need actual confirmation.
+2. Check your name and responsibilities in Task 2 and your section in the shared script.
 3. Check your assigned content for clarity, consistent numbers and feasible scope. Suggest specific comments in the formal Google Docs, explaining reasons and impacts.
 4. After changes, check your script section too. Notify other relevant owners when budget, MOV, scope or dates change. Google Docs and GitHub do not sync automatically; the leader updates repository versions after integrating and confirming revisions.
 5. Explain your section in your own words, then rehearse the English script. Prepare to explain why decisions were made, rather than only reading aloud. Prepare at least two likely questions about your section and read the [Q&A draft](presentation/04_Typical_QA_EN.md).
@@ -51,7 +51,7 @@ Documents are held under school accounts. A link does not grant access. If acces
 
 | Item | Date in requirements | Preparation note |
 |---|---|---|
-| Task 1: Proposal + Team Charter | 2026-11-20 | Previously verified Moodle deadline: 00:00; attachment: 23:59. Conflict remains; internal target: **19 November, 18:00 MYT** |
+| Task 1: Proposal + Team Charter | 2026-11-20 | Submitted. See section 2 for the two archived PDFs. |
 | Task 2: Project Charter | 2026-12-08 23:59 | Attachment date; separate Moodle entry not yet verified |
 | Group Presentation: 5% | 2026-12-10 | Exact time, venue/platform, duration and format remain to be confirmed |
 
@@ -76,4 +76,4 @@ Google Docs supports collaboration; bilingual Markdown supports reference and ve
 - [Candidate recording approach and Q&A preparation](presentation/03_Recording_and_QA_Guide_EN.md)
 - [WBS and budget details](docs/wbs-and-budget.md)
 
-This is internal preparation guidance and cannot override the lecturer’s original requirements or later notices. Before submission, the group should confirm personal details, meeting arrangements, role commitments, document versions and presentation format.
+This is internal preparation guidance and cannot override the lecturer’s original requirements or later notices. Before submitting Task 2 and presenting, confirm roles, document versions and the presentation format.

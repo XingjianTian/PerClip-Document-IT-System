@@ -26,10 +26,10 @@ Five core screens from the current Android prototype, using synthetic English ex
 
 ## Documents
 
-| Document | Purpose | Google Docs collaboration draft (English) | English reading copy | 中文 |
+| Document | Purpose | Submitted file or collaboration draft | English reading copy | 中文 |
 |---|---|---|---|---|
-| Proposal | Purpose, stakeholders, release scope and expected benefit (Task 1) | [Open proposal](https://docs.google.com/document/d/12U-Q6nHU0VVJLd2f1suqiXmoiz9uk8S6T-kdf8JUYJo/edit) | [English](docs/proposal.md) | [中文](docs/proposal_ZH.md) |
-| Team Charter | Members, responsibilities, communication and team rules; Task 1 | [Open team charter](https://docs.google.com/document/d/1hINq9tykmjUGoifnwC85BEKo9WYC15juCXi95lnv9Ss/edit) | [English](docs/team-charter.md) | [中文](docs/team-charter_ZH.md) |
+| Proposal | Purpose, stakeholders, release scope and expected benefit (Task 1) | [Submitted PDF](https://drive.google.com/file/d/1fm1WBSPhLLafTN_RbCBPgy1yNBlcU6VL/view) | — | — |
+| Team Charter | Members, responsibilities, communication and team rules; Task 1 | [Submitted PDF](https://drive.google.com/file/d/1eqp8GxwcAZ9jd74XtaGRoVAQ9xlWkyWu/view) | — | — |
 | Project Charter | MOV, WBS, schedule, budget, risks, quality and acceptance; Task 2 | [Open project charter](https://docs.google.com/document/d/1zFv3wvtZOBagOc8DQkFxFpXOKsy2kZrWi4drkiAovYg) | [English](docs/project-charter.md) | [中文](docs/project-charter_ZH.md) |
 | Presentation Script | Five named chapters; leader opens and concludes after ZHANG | [Open shared script](https://docs.google.com/document/d/1BMb5rx9NVIpYG9ox9SPD_6Xkid16asukJab6xNW0ylY) | [English](presentation/01_Final_Presentation_Script_EN.md) | [中文](presentation/01_Final_Presentation_Script_ZH.md) |
 | Guideline | Reading order, roles and collaboration | — | [English](GUIDELINE_EN.md) | [中文](GUIDELINE.md) |
@@ -38,15 +38,15 @@ Five core screens from the current Android prototype, using synthetic English ex
 | Q&A | Practice answers; not a second presentation script | — | [English](presentation/04_Typical_QA_EN.md) | [中文](presentation/04_Typical_QA_ZH.md) |
 | Requirements | Source references, rubric, dates and unresolved questions | — | [English](docs/requirements_EN.md) | [中文](docs/作业要求与准备清单.md) |
 
-Google Docs retain the English collaboration drafts; Chinese copies support understanding. There is one script, with A/B content choices within each chapter; do not read both parts in full. Each page has a language switch at the top.
+The submitted Task 1 PDFs are stored in the school Google Drive and require file access. The other Google Docs links are for collaboration in English. There is one script, with A/B content choices within each chapter; do not read both parts in full. Each page has a language switch at the top.
 
 ## Current status
 
-The three formal documents and script are planning drafts pending member review. The Proposal cover in Google Docs lists all five matriculation numbers. The course planning estimate is 90 person-hours and MYR 2,585.
+The Task 1 Proposal and Team Charter have been submitted. The Task 2 Project Charter and presentation script are still in preparation. The course planning estimate is 90 person-hours and MYR 2,585.
 
-Task 1 is dated 20 November 2026, Task 2 8 December and Presentation 10 December. The platform's Task 1 00:00 cutoff conflicts with the attachment's 23:59; the internal readiness target is 19 November at 18:00 MYT. Presentation mode, duration and submission format remain unconfirmed; a composite video is not yet approved by the lecturer.
+Task 2 is dated 8 December 2026 and the presentation 10 December 2026. Presentation mode, duration and submission format remain unconfirmed; a composite video is not yet approved by the lecturer.
 
-[Original course files](course-source/) remain unchanged. No university submission or message to the lecturer/group has been made. Network-drive synchronization remains pending.
+[View the original course files](course-source/).
 
 Interface screenshots and per-image descriptions: see [interface-gallery](interface-gallery/README.md). Images are numbered by module and use synthetic sample data; they are not functional acceptance evidence.
 

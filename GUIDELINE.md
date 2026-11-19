@@ -2,7 +2,7 @@
 
 [English](GUIDELINE_EN.md) | 简体中文
 
-UECS6013 · Group 2 · 更新：2026-11-13
+UECS6013 · Group 2 · 更新：2026-11-19
 
 请先读本页，再打开统一讲稿 Google Docs，按自己的姓名找到章节。无需安装开发环境或运行系统，就能参与当前文档审阅和演示准备。GitHub 用于阅读与保存版本，Google Docs 用于协作修改。
 
@@ -16,11 +16,11 @@ UECS6013 · Group 2 · 更新：2026-11-13
 
 | 文档 | 用途 | 对应任务 |
 |---|---|---|
-| [Proposal-PerClip RAG Document Management System](https://docs.google.com/document/d/12U-Q6nHU0VVJLd2f1suqiXmoiz9uk8S6T-kdf8JUYJo/edit) | 说明问题、项目目的、利益相关者与范围 | Task 1，连同 Team Charter 共 15% |
-| [Team Charter-PerClip RAG Document Management System](https://docs.google.com/document/d/1hINq9tykmjUGoifnwC85BEKo9WYC15juCXi95lnv9Ss/edit) | 说明成员、职责、技能、会议、沟通与团队规则 | Task 1 |
+| [Proposal · 提交版 PDF](https://drive.google.com/file/d/1fm1WBSPhLLafTN_RbCBPgy1yNBlcU6VL/view) | 说明问题、项目目的、利益相关者与范围 | Task 1，连同 Team Charter 共 15% |
+| [Team Charter · 提交版 PDF](https://drive.google.com/file/d/1eqp8GxwcAZ9jd74XtaGRoVAQ9xlWkyWu/view) | 说明成员、职责、技能、会议、沟通与团队规则 | Task 1 |
 | [Project Charter-PerClip RAG Document Management System](https://docs.google.com/document/d/1zFv3wvtZOBagOc8DQkFxFpXOKsy2kZrWi4drkiAovYg) | 说明 MOV、范围、排期、预算、质量、资源、风险、管理与验收批准 | Task 2，30% |
 
-双语 Markdown 参考：[项目提案](docs/proposal_ZH.md)、[团队章程](docs/team-charter_ZH.md)、[项目章程](docs/project-charter_ZH.md)。三份各有用途，都需要保留。统一讲稿是准备材料，不能替代正式作业文档。
+Task 1 以表中的两份提交版 PDF 为准，访问需学校 Google Drive 文件权限。Task 2 有[中文阅读版](docs/project-charter_ZH.md)。统一讲稿是准备材料，不能替代正式作业文档。
 
 ## 3. 找到自己的分工与讲稿
 
@@ -41,7 +41,7 @@ UECS6013 · Group 2 · 更新：2026-11-13
 ## 4. 每个人现在要做什么
 
 1. 在统一讲稿中阅读自己的姓名章节，再通读三份正式文档，了解项目整体逻辑。
-2. 核对本人姓名；在 Proposal 封面核对学号，在 Team Charter 中核对联系方式、技能和可开会时间。会议地点、平台、团队承诺也需实际确认。
+2. 核对 Task 2 和讲稿中本人的姓名、职责与负责章节。
 3. 检查自己负责的内容：是否说得清、数字是否一致、范围是否可行。需要调整时在正式 Google Docs 中提出具体评论，写清修改理由和影响。
 4. 修改内容后，同步检查统一讲稿中自己的段落；涉及预算、MOV、范围或日期时通知其他相关负责人一起核对。Google Docs 与 GitHub 不会自动同步，组长整合确认后更新仓库版本。
 5. 用自己的话复述负责内容，再用英文稿排练；准备解释“为什么这样定”，不能只会念稿。每人至少准备两个自己部分可能被问到的问题，并阅读[问答草稿](presentation/04_Typical_QA_ZH.md)。
@@ -51,7 +51,7 @@ UECS6013 · Group 2 · 更新：2026-11-13
 
 | 项目 | 要求文件所列日期 | 准备提示 |
 |---|---|---|
-| Task 1：Proposal + Team Charter | 2026-11-20 | 此前核实的 Moodle 截止为 00:00，附件为 23:59，存在冲突；内部目标为 **11月19日18:00 MYT** |
+| Task 1：Proposal + Team Charter | 2026-11-20 | 已提交。两份归档 PDF 见第 2 节。 |
 | Task 2：Project Charter | 2026-12-08 23:59 | 附件日期；独立 Moodle 条目待核实 |
 | Group Presentation：5% | 2026-12-10 | 具体时间、地点／平台、时长和形式待确认 |
 
@@ -76,4 +76,4 @@ Google Docs 用于协作，双语 Markdown 用于参考与版本保存；这是�
 - [录制候选方案与答问准备](presentation/03_Recording_and_QA_Guide_ZH.md)
 - [WBS 与预算明细](docs/wbs-and-budget_ZH.md)
 
-本指南是组内准备说明，不能覆盖老师的原文或后续通知。最终提交前，全组应确认个人资料、会议安排、职责承诺、文档版本与展示形式。
+本指南是组内准备说明，不能覆盖老师的原文或后续通知。Task 2 提交和展示前，全组应确认职责、文档版本与展示形式。

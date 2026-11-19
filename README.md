@@ -26,10 +26,10 @@ PerClip 是一个规划中的 RAG 文档管理系统，连接文档采集、整�
 
 ## 文档导航
 
-| 文档 | 用途 | Google Docs 协作稿（英文） | 中文阅读版 | English |
+| 文档 | 用途 | 提交版或协作稿 | 中文阅读版 | English |
 |---|---|---|---|---|
-| Proposal／项目提案 | 说明项目目的、利益相关者、发布范围和预期收益；Task 1 | [打开提案](https://docs.google.com/document/d/12U-Q6nHU0VVJLd2f1suqiXmoiz9uk8S6T-kdf8JUYJo/edit) | [中文](docs/proposal_ZH.md) | [English](docs/proposal.md) |
-| Team Charter／团队章程 | 说明成员、分工、沟通与团队规则；Task 1 | [打开团队章程](https://docs.google.com/document/d/1hINq9tykmjUGoifnwC85BEKo9WYC15juCXi95lnv9Ss/edit) | [中文](docs/team-charter_ZH.md) | [English](docs/team-charter.md) |
+| Proposal／项目提案 | 说明项目目的、利益相关者、发布范围和预期收益；Task 1 | [提交版 PDF](https://drive.google.com/file/d/1fm1WBSPhLLafTN_RbCBPgy1yNBlcU6VL/view) | — | — |
+| Team Charter／团队章程 | 说明成员、分工、沟通与团队规则；Task 1 | [提交版 PDF](https://drive.google.com/file/d/1eqp8GxwcAZ9jd74XtaGRoVAQ9xlWkyWu/view) | — | — |
 | Project Charter／项目章程 | 说明 MOV、WBS、进度、预算、风险、质量与验收；Task 2 | [打开项目章程](https://docs.google.com/document/d/1zFv3wvtZOBagOc8DQkFxFpXOKsy2kZrWi4drkiAovYg) | [中文](docs/project-charter_ZH.md) | [English](docs/project-charter.md) |
 | Presentation Script／统一讲稿 | 五人按姓名分章；组长开场，并在 ZHANG 后总结 | [打开统一讲稿](https://docs.google.com/document/d/1BMb5rx9NVIpYG9ox9SPD_6Xkid16asukJab6xNW0ylY) | [中文](presentation/01_Final_Presentation_Script_ZH.md) | [English](presentation/01_Final_Presentation_Script_EN.md) |
 | Guideline／上手指南 | 阅读顺序、分工和协作方法 | — | [中文](GUIDELINE.md) | [English](GUIDELINE_EN.md) |
@@ -38,15 +38,15 @@ PerClip 是一个规划中的 RAG 文档管理系统，连接文档采集、整�
 | Q&A／问答草稿 | 按问题练习回答，不是第二套讲稿 | — | [中文](presentation/04_Typical_QA_ZH.md) | [English](presentation/04_Typical_QA_EN.md) |
 | Requirements／作业要求 | 原文出处、评分点、日期和待确认事项 | — | [中文](docs/作业要求与准备清单.md) | [English](docs/requirements_EN.md) |
 
-Google Docs 保留英文协作稿，中文用于对照理解。讲稿只有一份，A／B 为同章内的选讲内容；不要把两部分完整读两遍。文档语言切换链接位于各页顶部。
+Task 1 提交版存放在学校 Google Drive，访问需文件权限。其余 Google Docs 链接用于英文协作。讲稿只有一份，A／B 为同章内的选讲内容；不要把两部分完整读两遍。文档语言切换链接位于各页顶部。
 
 ## 当前状态
 
-三份正式文档和讲稿均为待组员确认的规划草稿。Proposal 协作稿的封面已列出五人的学号。课程规划的工作量估算为 90 人时，预算估算为 MYR 2,585。
+Task 1 的 Proposal 和 Team Charter 已提交。Task 2 的 Project Charter 和讲稿仍用于组内准备。课程规划的工作量估算为 90 人时，预算估算为 MYR 2,585。
 
-Task 1 日期为 2026-11-20，Task 2 为 2026-12-08，Presentation 为 2026-12-10。Task 1 的平台 00:00 与附件 23:59 存在冲突；内部准备目标为 11月19日18:00 MYT。展示形式、时长及提交格式仍待确认，不能把合成视频视为老师已批准。
+Task 2 日期为 2026-12-08，Presentation 为 2026-12-10。展示形式、时长及提交格式仍待确认，不能把合成视频视为老师已批准。
 
-[课程原始文件](course-source/)保留不变。尚未向课程提交作业或向老师、组员发送消息；网络盘同步仍未完成。
+[查看课程原始文件](course-source/)。
 
 界面截图与逐张说明：见 [interface-gallery](interface-gallery/说明_ZH.md)，按模块编号，使用合成示例数据；这些素材不代表功能验收。
 
